@@ -1,0 +1,127 @@
+10-07-2013 17-40  createDataFromPOST
+10-07-2013 19-40  createDataFromPOST
+10-07-2013 20-02  createDataFromPOST
+14-07-2013 23-11  createDataFromPOST
+27-07-2013 23-12  createDataFromPOST
+31-07-2013 11-21  createDataFromPOST
+31-07-2013 11-21  transaction_subject = 46
+31-07-2013 11-21  payment_date = 04:20:57 Jul 31, 2013 PDT
+31-07-2013 11-21  txn_type = web_accept
+31-07-2013 11-21  last_name = Amit
+31-07-2013 11-21  residence_country = IL
+31-07-2013 11-21  item_name = Ch 2 test
+31-07-2013 11-21  payment_gross = 1.00
+31-07-2013 11-21  mc_currency = USD
+31-07-2013 11-21  business = u-sophialtd@u-sophia.com
+31-07-2013 11-21  payment_type = instant
+31-07-2013 11-21  protection_eligibility = Ineligible
+31-07-2013 11-21  verify_sign = AOh0tu.5JUQyG2Aao4MpntBA2sFjArH.rOhuBjmP-sbwabHHmn9rlVJc
+31-07-2013 11-21  payer_status = verified
+31-07-2013 11-21  tax = 0.00
+31-07-2013 11-21  payer_email = nira.amit55@gmail.com
+31-07-2013 11-21  txn_id = 3DH60393S2444262T
+31-07-2013 11-21  quantity = 1
+31-07-2013 11-21  receiver_email = u-sophialtd@u-sophia.com
+31-07-2013 11-21  first_name = Nira
+31-07-2013 11-21  payer_id = XLHDEYNXVRW76
+31-07-2013 11-21  receiver_id = PJCR5UQ2VU2TJ
+31-07-2013 11-21  item_number = 
+31-07-2013 11-21  handling_amount = 0.00
+31-07-2013 11-21  payment_status = Completed
+31-07-2013 11-21  payment_fee = 0.33
+31-07-2013 11-21  mc_fee = 0.33
+31-07-2013 11-21  shipping = 0.00
+31-07-2013 11-21  mc_gross = 1.00
+31-07-2013 11-21  custom = 46
+31-07-2013 11-21  charset = windows-1255
+31-07-2013 11-21  notify_version = 3.7
+31-07-2013 11-21  ipn_track_id = 28a08167a42da
+31-07-2013 11-21  requestValidation. response from server is: VERIFIED
+31-07-2013 11-21  payment was approved
+13-08-2013 15-53  createDataFromPOST
+13-08-2013 15-53  mc_gross = 1.00
+13-08-2013 15-53  protection_eligibility = Eligible
+13-08-2013 15-53  address_status = unconfirmed
+13-08-2013 15-53  payer_id = XLHDEYNXVRW76
+13-08-2013 15-53  tax = 0.00
+13-08-2013 15-53  address_street = 7 Alterman st.
+flat 5
+13-08-2013 15-53  payment_date = 08:53:36 Aug 13, 2013 PDT
+13-08-2013 15-53  payment_status = Completed
+13-08-2013 15-53  charset = windows-1255
+13-08-2013 15-53  address_zip = 69415
+13-08-2013 15-53  first_name = Nira
+13-08-2013 15-53  mc_fee = 0.33
+13-08-2013 15-53  address_country_code = IL
+13-08-2013 15-53  address_name = Nira Amit
+13-08-2013 15-53  notify_version = 3.7
+13-08-2013 15-53  custom = 48
+13-08-2013 15-53  payer_status = verified
+13-08-2013 15-53  business = u-sophialtd@u-sophia.com
+13-08-2013 15-53  address_country = Israel
+13-08-2013 15-53  address_city = Tel Aviv
+13-08-2013 15-53  quantity = 1
+13-08-2013 15-53  verify_sign = Ayw1euLXr3LWKs3sTOncsyPN-pWfA8Me6D5jx3MjQScr30x8rjXydkTS
+13-08-2013 15-53  payer_email = nira.amit55@gmail.com
+13-08-2013 15-53  txn_id = 9C061910Y4833242A
+13-08-2013 15-53  payment_type = instant
+13-08-2013 15-53  last_name = Amit
+13-08-2013 15-53  address_state = 
+13-08-2013 15-53  receiver_email = u-sophialtd@u-sophia.com
+13-08-2013 15-53  payment_fee = 0.33
+13-08-2013 15-53  receiver_id = PJCR5UQ2VU2TJ
+13-08-2013 15-53  txn_type = web_accept
+13-08-2013 15-53  item_name = Nira test
+13-08-2013 15-53  mc_currency = USD
+13-08-2013 15-53  item_number = 
+13-08-2013 15-53  residence_country = IL
+13-08-2013 15-53  handling_amount = 0.00
+13-08-2013 15-53  transaction_subject = 48
+13-08-2013 15-53  payment_gross = 1.00
+13-08-2013 15-53  shipping = 0.00
+13-08-2013 15-53  ipn_track_id = b2ac093bc34e3
+13-08-2013 15-53  requestValidation. response from server is: VERIFIED
+13-08-2013 15-53  payment was approved
+14-08-2013 03-02  createDataFromPOST
+14-08-2013 03-02  mc_gross = 1.00
+14-08-2013 03-02  protection_eligibility = Eligible
+14-08-2013 03-02  address_status = confirmed
+14-08-2013 03-02  payer_id = S47Y2B7TUJ2X2
+14-08-2013 03-02  tax = 0.00
+14-08-2013 03-02  address_street = Rt. 1  Box 23F
+14-08-2013 03-02  payment_date = 17:02:28 Aug 13, 2013 PDT
+14-08-2013 03-02  payment_status = Completed
+14-08-2013 03-02  charset = windows-1255
+14-08-2013 03-02  address_zip = 65732
+14-08-2013 03-02  first_name = Doug
+14-08-2013 03-02  mc_fee = 0.34
+14-08-2013 03-02  address_country_code = US
+14-08-2013 03-02  address_name = Doug Brethower
+14-08-2013 03-02  notify_version = 3.7
+14-08-2013 03-02  custom = 49
+14-08-2013 03-02  payer_status = verified
+14-08-2013 03-02  business = u-sophialtd@u-sophia.com
+14-08-2013 03-02  address_country = United States
+14-08-2013 03-02  address_city = Preston
+14-08-2013 03-02  quantity = 1
+14-08-2013 03-02  verify_sign = AWHwKBMoVXhTmv6W8P6KccBSLnxQAl4SIeFIXosBeYL7vIAH90XKbZii
+14-08-2013 03-02  payer_email = doug.brethower@lakedata.net
+14-08-2013 03-02  txn_id = 03F94749SD473705G
+14-08-2013 03-02  payment_type = instant
+14-08-2013 03-02  last_name = Brethower
+14-08-2013 03-02  address_state = MO
+14-08-2013 03-02  receiver_email = u-sophialtd@u-sophia.com
+14-08-2013 03-02  payment_fee = 0.34
+14-08-2013 03-02  receiver_id = PJCR5UQ2VU2TJ
+14-08-2013 03-02  txn_type = web_accept
+14-08-2013 03-02  item_name = Nira test
+14-08-2013 03-02  mc_currency = USD
+14-08-2013 03-02  item_number = 
+14-08-2013 03-02  residence_country = US
+14-08-2013 03-02  handling_amount = 0.00
+14-08-2013 03-02  transaction_subject = 49
+14-08-2013 03-02  payment_gross = 1.00
+14-08-2013 03-02  shipping = 0.00
+14-08-2013 03-02  ipn_track_id = c7bb19dfdc95b
+14-08-2013 03-02  requestValidation. response from server is: VERIFIED
+14-08-2013 03-02  payment was approved

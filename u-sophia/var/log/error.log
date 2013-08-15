@@ -1,0 +1,831 @@
+[ Aug 12 2013 19:42:23 ] [72.161.221.17] index:
+Undefined module: favicon.ico
+[ Aug 12 2013 19:42:23 ] [72.161.221.17] error/view.php:
+Error ocurred using URI: /favicon.ico
+[ Aug 12 2013 19:42:23 ] [72.161.221.17] eZContentObject::fetch():
+Object not found ()
+[ Aug 12 2013 20:08:57 ] [72.161.221.17] eZContentObject::fetch():
+Object not found ()
+[ Aug 12 2013 20:18:47 ] [72.161.221.17] error/view.php:
+Error ocurred using URI: /Global-Art-Village/Admin
+[ Aug 12 2013 20:18:47 ] [72.161.221.17] eZContentObject::fetch():
+Object not found ()
+[ Aug 12 2013 20:20:32 ] [72.161.221.17] eZWorkflow::attribute:
+Attribute 'workflow_id' does not exist
+[ Aug 12 2013 20:20:32 ] [72.161.221.17] eZWorkflow::attribute:
+Attribute 'workflow_id' does not exist
+[ Aug 12 2013 20:20:32 ] [72.161.221.17] eZWorkflow::attribute:
+Attribute 'workflow_id' does not exist
+[ Aug 12 2013 20:20:32 ] [72.161.221.17] eZWorkflow::attribute:
+Attribute 'workflow_id' does not exist
+[ Aug 12 2013 20:20:32 ] [72.161.221.17] eZWorkflow::attribute:
+Attribute 'workflow_id' does not exist
+[ Aug 12 2013 20:20:32 ] [72.161.221.17] eZWorkflow::attribute:
+Attribute 'workflow_id' does not exist
+[ Aug 12 2013 20:20:32 ] [72.161.221.17] eZWorkflow::attribute:
+Attribute 'workflow_id' does not exist
+[ Aug 12 2013 20:20:32 ] [72.161.221.17] eZWorkflow::attribute:
+Attribute 'workflow_id' does not exist
+[ Aug 12 2013 20:20:32 ] [72.161.221.17] eZWorkflow::attribute:
+Attribute 'workflow_id' does not exist
+[ Aug 12 2013 20:20:32 ] [72.161.221.17] eZWorkflow::attribute:
+Attribute 'workflow_id' does not exist
+[ Aug 12 2013 20:20:32 ] [72.161.221.17] eZWorkflow::attribute:
+Attribute 'workflow_id' does not exist
+[ Aug 12 2013 20:20:32 ] [72.161.221.17] eZWorkflow::attribute:
+Attribute 'workflow_id' does not exist
+[ Aug 12 2013 20:20:32 ] [72.161.221.17] eZWorkflow::attribute:
+Attribute 'workflow_id' does not exist
+[ Aug 12 2013 20:20:32 ] [72.161.221.17] eZWorkflow::attribute:
+Attribute 'workflow_id' does not exist
+[ Aug 12 2013 20:20:32 ] [72.161.221.17] eZWorkflow::attribute:
+Attribute 'workflow_id' does not exist
+[ Aug 12 2013 20:20:32 ] [72.161.221.17] eZWorkflow::attribute:
+Attribute 'workflow_id' does not exist
+[ Aug 12 2013 20:22:49 ] [72.161.221.17] eZWorkflow::attribute:
+Attribute 'workflow_id' does not exist
+[ Aug 12 2013 20:22:49 ] [72.161.221.17] eZWorkflow::attribute:
+Attribute 'workflow_id' does not exist
+[ Aug 12 2013 20:22:49 ] [72.161.221.17] eZWorkflow::attribute:
+Attribute 'workflow_id' does not exist
+[ Aug 12 2013 20:22:49 ] [72.161.221.17] eZWorkflow::attribute:
+Attribute 'workflow_id' does not exist
+[ Aug 12 2013 20:22:49 ] [72.161.221.17] eZWorkflow::attribute:
+Attribute 'workflow_id' does not exist
+[ Aug 12 2013 20:22:49 ] [72.161.221.17] eZWorkflow::attribute:
+Attribute 'workflow_id' does not exist
+[ Aug 12 2013 20:22:49 ] [72.161.221.17] eZWorkflow::attribute:
+Attribute 'workflow_id' does not exist
+[ Aug 12 2013 20:22:49 ] [72.161.221.17] eZWorkflow::attribute:
+Attribute 'workflow_id' does not exist
+[ Aug 12 2013 20:22:49 ] [72.161.221.17] eZWorkflow::attribute:
+Attribute 'workflow_id' does not exist
+[ Aug 12 2013 20:22:49 ] [72.161.221.17] eZWorkflow::attribute:
+Attribute 'workflow_id' does not exist
+[ Aug 12 2013 20:22:49 ] [72.161.221.17] eZWorkflow::attribute:
+Attribute 'workflow_id' does not exist
+[ Aug 12 2013 20:22:49 ] [72.161.221.17] eZWorkflow::attribute:
+Attribute 'workflow_id' does not exist
+[ Aug 12 2013 20:22:49 ] [72.161.221.17] eZWorkflow::attribute:
+Attribute 'workflow_id' does not exist
+[ Aug 12 2013 20:22:49 ] [72.161.221.17] eZWorkflow::attribute:
+Attribute 'workflow_id' does not exist
+[ Aug 12 2013 20:22:49 ] [72.161.221.17] eZWorkflow::attribute:
+Attribute 'workflow_id' does not exist
+[ Aug 12 2013 20:22:49 ] [72.161.221.17] eZWorkflow::attribute:
+Attribute 'workflow_id' does not exist
+[ Aug 12 2013 20:22:55 ] [72.161.221.17] eZWorkflowType::loadAndRegisterType:
+Workflow type not found: event_createmultiplelocationrule, searched in these directories: kernel/classes/workflowtypes, extension/coupon/eventtypes, extension/usophia/eventtypes
+[ Aug 12 2013 20:22:55 ] [72.161.221.17] eZWorkflowType::loadAndRegisterType:
+Workflow type not found: event_createmultiplelocationrule, searched in these directories: kernel/classes/workflowtypes, extension/coupon/eventtypes, extension/usophia/eventtypes
+[ Aug 12 2013 20:22:55 ] [72.161.221.17] eZWorkflowType::loadAndRegisterType:
+Workflow type not found: event_createmultiplelocationrule, searched in these directories: kernel/classes/workflowtypes, extension/coupon/eventtypes, extension/usophia/eventtypes
+[ Aug 12 2013 20:22:55 ] [72.161.221.17] eZWorkflowType::loadAndRegisterType:
+Workflow type not found: event_createmultiplelocationrule, searched in these directories: kernel/classes/workflowtypes, extension/coupon/eventtypes, extension/usophia/eventtypes
+[ Aug 12 2013 20:22:55 ] [72.161.221.17] eZWorkflowType::loadAndRegisterType:
+Workflow type not found: event_createmultiplelocationrule, searched in these directories: kernel/classes/workflowtypes, extension/coupon/eventtypes, extension/usophia/eventtypes
+[ Aug 12 2013 20:22:55 ] [72.161.221.17] eZWorkflowType::loadAndRegisterType:
+Workflow type not found: event_createmultiplelocationrule, searched in these directories: kernel/classes/workflowtypes, extension/coupon/eventtypes, extension/usophia/eventtypes
+[ Aug 12 2013 20:22:55 ] [72.161.221.17] eZWorkflowType::loadAndRegisterType:
+Workflow type not found: event_createmultiplelocationrule, searched in these directories: kernel/classes/workflowtypes, extension/coupon/eventtypes, extension/usophia/eventtypes
+[ Aug 12 2013 20:22:55 ] [72.161.221.17] eZWorkflowType::loadAndRegisterType:
+Workflow type not found: event_createmultiplelocationrule, searched in these directories: kernel/classes/workflowtypes, extension/coupon/eventtypes, extension/usophia/eventtypes
+[ Aug 12 2013 20:22:55 ] [72.161.221.17] eZWorkflowType::loadAndRegisterType:
+Workflow type not found: event_createmultiplelocationrule, searched in these directories: kernel/classes/workflowtypes, extension/coupon/eventtypes, extension/usophia/eventtypes
+[ Aug 12 2013 20:22:55 ] [72.161.221.17] eZWorkflowType::loadAndRegisterType:
+Workflow type not found: event_createmultiplelocationrule, searched in these directories: kernel/classes/workflowtypes, extension/coupon/eventtypes, extension/usophia/eventtypes
+[ Aug 12 2013 20:22:55 ] [72.161.221.17] eZWorkflowType::loadAndRegisterType:
+Workflow type not found: event_createmultiplelocationrule, searched in these directories: kernel/classes/workflowtypes, extension/coupon/eventtypes, extension/usophia/eventtypes
+[ Aug 12 2013 20:22:55 ] [72.161.221.17] eZWorkflowType::loadAndRegisterType:
+Workflow type not found: event_createmultiplelocationrule, searched in these directories: kernel/classes/workflowtypes, extension/coupon/eventtypes, extension/usophia/eventtypes
+[ Aug 12 2013 20:22:55 ] [72.161.221.17] eZWorkflowType::loadAndRegisterType:
+Workflow type not found: event_createmultiplelocationrule, searched in these directories: kernel/classes/workflowtypes, extension/coupon/eventtypes, extension/usophia/eventtypes
+[ Aug 12 2013 20:22:55 ] [72.161.221.17] eZWorkflowType::loadAndRegisterType:
+Workflow type not found: event_createmultiplelocationrule, searched in these directories: kernel/classes/workflowtypes, extension/coupon/eventtypes, extension/usophia/eventtypes
+[ Aug 12 2013 20:22:55 ] [72.161.221.17] eZWorkflowType::loadAndRegisterType:
+Workflow type not found: event_createmultiplelocationrule, searched in these directories: kernel/classes/workflowtypes, extension/coupon/eventtypes, extension/usophia/eventtypes
+[ Aug 12 2013 20:22:55 ] [72.161.221.17] eZWorkflowType::loadAndRegisterType:
+Workflow type not found: event_createmultiplelocationrule, searched in these directories: kernel/classes/workflowtypes, extension/coupon/eventtypes, extension/usophia/eventtypes
+[ Aug 12 2013 20:22:55 ] [72.161.221.17] eZWorkflowType::loadAndRegisterType:
+Workflow type not found: event_createmultiplelocationrule, searched in these directories: kernel/classes/workflowtypes, extension/coupon/eventtypes, extension/usophia/eventtypes
+[ Aug 12 2013 20:22:55 ] [72.161.221.17] eZWorkflowType::loadAndRegisterType:
+Workflow type not found: event_createmultiplelocationrule, searched in these directories: kernel/classes/workflowtypes, extension/coupon/eventtypes, extension/usophia/eventtypes
+[ Aug 12 2013 20:22:55 ] [72.161.221.17] eZWorkflowType::loadAndRegisterType:
+Workflow type not found: event_createmultiplelocationrule, searched in these directories: kernel/classes/workflowtypes, extension/coupon/eventtypes, extension/usophia/eventtypes
+[ Aug 12 2013 20:22:55 ] [72.161.221.17] eZWorkflowType::loadAndRegisterType:
+Workflow type not found: event_createmultiplelocationrule, searched in these directories: kernel/classes/workflowtypes, extension/coupon/eventtypes, extension/usophia/eventtypes
+[ Aug 12 2013 20:22:55 ] [72.161.221.17] eZWorkflowType::loadAndRegisterType:
+Workflow type not found: event_createmultiplelocationrule, searched in these directories: kernel/classes/workflowtypes, extension/coupon/eventtypes, extension/usophia/eventtypes
+[ Aug 12 2013 20:22:55 ] [72.161.221.17] eZWorkflowType::loadAndRegisterType:
+Workflow type not found: event_createmultiplelocationrule, searched in these directories: kernel/classes/workflowtypes, extension/coupon/eventtypes, extension/usophia/eventtypes
+[ Aug 12 2013 20:49:51 ] [72.161.221.17] eZContentObject::fetch():
+Object not found ()
+[ Aug 12 2013 20:53:01 ] [72.161.221.17] eZContentObject::fetch():
+Object not found ()
+[ Aug 12 2013 20:57:21 ] [72.161.221.17] Timing Point: Module start 'setup'
+[ Aug 12 2013 20:57:21 ] [72.161.221.17] error/view.php:
+Error ocurred using URI: /setup/settingstoolbar
+[ Aug 12 2013 20:57:22 ] [72.161.221.17] Timing Point: Module end 'error'
+[ Aug 12 2013 20:57:22 ] [72.161.221.17] eZContentObject::fetch():
+Object not found ()
+[ Aug 12 2013 20:59:42 ] [72.161.221.17] index:
+Undefined module: favicon.ico
+[ Aug 12 2013 20:59:42 ] [72.161.221.17] error/view.php:
+Error ocurred using URI: /favicon.ico
+[ Aug 12 2013 20:59:42 ] [72.161.221.17] eZContentObject::fetch():
+Object not found ()
+[ Aug 12 2013 21:08:40 ] [96.254.171.2] index:
+Undefined module: http:
+[ Aug 12 2013 21:08:40 ] [96.254.171.2] error/view.php:
+Error ocurred using URI: http://server5.cyberpods.net/azenv.php
+[ Aug 12 2013 21:08:40 ] [96.254.171.2] eZContentObject::fetch():
+Object not found ()
+[ Aug 12 2013 21:38:40 ] [66.249.75.184] eZImageManager::createImageAlias:
+The reference alias original file  does not exist
+[ Aug 12 2013 21:38:40 ] [66.249.75.184] :
+Original alias does not exist, cannot create other aliases without it
+[ Aug 12 2013 21:38:48 ] [66.249.75.184] eZImageManager::createImageAlias:
+The reference alias original file  does not exist
+[ Aug 12 2013 21:38:48 ] [66.249.75.184] :
+Original alias does not exist, cannot create other aliases without it
+[ Aug 12 2013 22:54:01 ] [96.254.171.2] index:
+Undefined module: http:
+[ Aug 12 2013 22:54:01 ] [96.254.171.2] error/view.php:
+Error ocurred using URI: http://server6.cyberpods.net/azenv.php
+[ Aug 12 2013 22:54:01 ] [96.254.171.2] eZContentObject::fetch():
+Object not found ()
+[ Aug 12 2013 23:06:10 ] [100.40.20.141] index:
+Undefined module: http:
+[ Aug 12 2013 23:06:10 ] [100.40.20.141] error/view.php:
+Error ocurred using URI: http://laldaeq.110mb.com/exp/judge.php
+[ Aug 12 2013 23:06:10 ] [100.40.20.141] eZContentObject::fetch():
+Object not found ()
+[ Aug 12 2013 23:20:04 ] [114.102.162.157] index:
+Undefined module: http:
+[ Aug 12 2013 23:20:04 ] [114.102.162.157] error/view.php:
+Error ocurred using URI: http://www.baidu.com/
+[ Aug 12 2013 23:20:04 ] [114.102.162.157] eZContentObject::fetch():
+Object not found ()
+[ Aug 12 2013 23:23:05 ] [100.40.20.141] index:
+Undefined module: http:
+[ Aug 12 2013 23:23:05 ] [100.40.20.141] error/view.php:
+Error ocurred using URI: http://laldaeq.110mb.com/exp/judge.php
+[ Aug 12 2013 23:23:05 ] [100.40.20.141] eZContentObject::fetch():
+Object not found ()
+[ Aug 12 2013 23:39:47 ] [212.24.225.167] index:
+Undefined module: http:
+[ Aug 12 2013 23:39:47 ] [212.24.225.167] error/view.php:
+Error ocurred using URI: http://www.baidu.com/
+[ Aug 12 2013 23:39:47 ] [212.24.225.167] eZContentObject::fetch():
+Object not found ()
+[ Aug 13 2013 00:26:48 ] [100.40.20.141] index:
+Undefined module: http:
+[ Aug 13 2013 00:26:48 ] [100.40.20.141] error/view.php:
+Error ocurred using URI: http://laldaeq.110mb.com/exp/judge.php
+[ Aug 13 2013 00:26:48 ] [100.40.20.141] eZContentObject::fetch():
+Object not found ()
+[ Aug 13 2013 00:47:45 ] [100.40.20.141] index:
+Undefined module: http:
+[ Aug 13 2013 00:47:45 ] [100.40.20.141] error/view.php:
+Error ocurred using URI: http://laldaeq.110mb.com/exp/judge.php
+[ Aug 13 2013 00:47:45 ] [100.40.20.141] eZContentObject::fetch():
+Object not found ()
+[ Aug 13 2013 01:32:13 ] [100.40.20.141] index:
+Undefined module: http:
+[ Aug 13 2013 01:32:13 ] [100.40.20.141] error/view.php:
+Error ocurred using URI: http://laldaeq.110mb.com/exp/judge.php
+[ Aug 13 2013 01:32:13 ] [100.40.20.141] eZContentObject::fetch():
+Object not found ()
+[ Aug 13 2013 01:35:58 ] [96.254.171.2] index:
+Undefined module: http:
+[ Aug 13 2013 01:35:58 ] [96.254.171.2] error/view.php:
+Error ocurred using URI: http://server5.cyberpods.net/azenv.php
+[ Aug 13 2013 01:35:58 ] [96.254.171.2] eZContentObject::fetch():
+Object not found ()
+[ Aug 13 2013 02:36:43 ] [111.113.15.238] index:
+Undefined module: http:
+[ Aug 13 2013 02:36:43 ] [111.113.15.238] error/view.php:
+Error ocurred using URI: http://www.baidu.com/
+[ Aug 13 2013 02:36:44 ] [111.113.15.238] eZContentObject::fetch():
+Object not found ()
+[ Aug 13 2013 03:29:47 ] [66.249.75.184] eZImageManager::createImageAlias:
+The reference alias original file  does not exist
+[ Aug 13 2013 03:29:47 ] [66.249.75.184] :
+Original alias does not exist, cannot create other aliases without it
+[ Aug 13 2013 03:38:13 ] [66.249.75.184] eZImageManager::createImageAlias:
+The reference alias original file  does not exist
+[ Aug 13 2013 03:38:13 ] [66.249.75.184] :
+Original alias does not exist, cannot create other aliases without it
+[ Aug 13 2013 04:22:56 ] [96.254.171.2] index:
+Undefined module: http:
+[ Aug 13 2013 04:22:56 ] [96.254.171.2] error/view.php:
+Error ocurred using URI: http://server7.cyberpods.net/azenv.php
+[ Aug 13 2013 04:22:56 ] [96.254.171.2] eZContentObject::fetch():
+Object not found ()
+[ Aug 13 2013 04:49:50 ] [100.40.20.141] index:
+Undefined module: http:
+[ Aug 13 2013 04:49:50 ] [100.40.20.141] error/view.php:
+Error ocurred using URI: http://laldaeq.110mb.com/exp/judge.php
+[ Aug 13 2013 04:49:50 ] [100.40.20.141] eZContentObject::fetch():
+Object not found ()
+[ Aug 13 2013 05:19:14 ] [100.40.20.141] index:
+Undefined module: http:
+[ Aug 13 2013 05:19:14 ] [100.40.20.141] error/view.php:
+Error ocurred using URI: http://laldaeq.110mb.com/exp/judge.php
+[ Aug 13 2013 05:19:15 ] [100.40.20.141] eZContentObject::fetch():
+Object not found ()
+[ Aug 13 2013 06:18:46 ] [66.249.75.235] eZContentObject::fetch():
+Object not found ()
+[ Aug 13 2013 07:21:09 ] [113.238.0.166] index:
+Undefined module: http:
+[ Aug 13 2013 07:21:09 ] [113.238.0.166] error/view.php:
+Error ocurred using URI: http://www.baidu.com/
+[ Aug 13 2013 07:21:09 ] [113.238.0.166] eZContentObject::fetch():
+Object not found ()
+[ Aug 13 2013 07:38:03 ] [66.249.75.27] eZImageManager::createImageAlias:
+The reference alias original file var/ezflow_site/storage/images/events/u-sophia/martin-gester-baroque-a-passion/3424-1-eng-US/Martin-Gester-Baroque-a-passion.jpg does not exist
+[ Aug 13 2013 07:38:03 ] [66.249.75.27] :
+Original alias does not exist, cannot create other aliases without it
+[ Aug 13 2013 07:38:03 ] [66.249.75.27] eZImageManager::createImageAlias:
+The reference alias original file var/ezflow_site/storage/images/events/ludmila-yurina-ukrainian-composer-in-the-us-of-a/11760-1-eng-US/Ludmila-Yurina-Ukrainian-composer-in-the-US-of-A.jpg does not exist
+[ Aug 13 2013 07:38:03 ] [66.249.75.27] :
+Original alias does not exist, cannot create other aliases without it
+[ Aug 13 2013 08:08:01 ] [79.180.175.33] eZTemplate @ design/admin/templates/shop/customerorderview.tpl:13[0]:
+No such attribute for array(0): 0
+Choose one of following: 
+[ Aug 13 2013 08:08:17 ] [79.180.175.33] eZContentObject::fetch():
+Object not found (0)
+[ Aug 13 2013 08:08:17 ] [79.180.175.33] eZContentObject::fetch():
+Object not found (0)
+[ Aug 13 2013 08:08:17 ] [79.180.175.33] eZContentObject::fetch():
+Object not found (0)
+[ Aug 13 2013 08:08:17 ] [79.180.175.33] eZContentObject::fetch():
+Object not found (0)
+[ Aug 13 2013 08:08:17 ] [79.180.175.33] eZContentObject::fetch():
+Object not found (0)
+[ Aug 13 2013 08:08:17 ] [79.180.175.33] eZContentObject::fetch():
+Object not found (0)
+[ Aug 13 2013 09:22:50 ] [66.249.75.184] error/view.php:
+Error ocurred using URI: /Global-Art-Village/Daniel-Cainer/Daniel-Cainer-Stories-in-song
+[ Aug 13 2013 09:22:51 ] [66.249.75.184] eZContentObject::fetch():
+Object not found ()
+[ Aug 13 2013 09:23:06 ] [66.249.75.184] eZImageManager::createImageAlias:
+The reference alias original file  does not exist
+[ Aug 13 2013 09:23:06 ] [66.249.75.184] :
+Original alias does not exist, cannot create other aliases without it
+[ Aug 13 2013 09:38:04 ] [66.249.75.184] eZImageManager::createImageAlias:
+The reference alias original file  does not exist
+[ Aug 13 2013 09:38:04 ] [66.249.75.184] :
+Original alias does not exist, cannot create other aliases without it
+[ Aug 13 2013 10:34:34 ] [66.249.75.27] eZImageManager::createImageAlias:
+The reference alias original file var/ezflow_site/storage/images/events/sonia-is-back/7267-1-eng-US/Sonia-is-back.jpg does not exist
+[ Aug 13 2013 10:34:34 ] [66.249.75.27] :
+Original alias does not exist, cannot create other aliases without it
+[ Aug 13 2013 10:34:34 ] [66.249.75.27] eZImageManager::createImageAlias:
+The reference alias original file var/ezflow_site/storage/images/events/guests/sonia-prina-live-at-u-sophia-where-minds-meet-on-line/4751-1-eng-US/Sonia-Prina-live-at-U-Sophia-where-minds-meet-on-line.jpg does not exist
+[ Aug 13 2013 10:34:34 ] [66.249.75.27] :
+Original alias does not exist, cannot create other aliases without it
+[ Aug 13 2013 10:34:34 ] [66.249.75.27] eZImageManager::createImageAlias:
+The reference alias original file var/ezflow_site/storage/images/events/sonia-prina-back-at-u-sophia/12753-1-eng-US/Sonia-Prina-back-at-U-Sophia.jpg does not exist
+[ Aug 13 2013 10:34:34 ] [66.249.75.27] :
+Original alias does not exist, cannot create other aliases without it
+[ Aug 13 2013 10:34:34 ] [66.249.75.27] eZImageManager::createImageAlias:
+The reference alias original file var/ezflow_site/storage/images/events/sonia-prina-the-eddie-mercury-of-baroque/3430-1-eng-US/Sonia-Prina-The-eddie-Mercury-of-Baroque.jpg does not exist
+[ Aug 13 2013 10:34:34 ] [66.249.75.27] :
+Original alias does not exist, cannot create other aliases without it
+[ Aug 13 2013 10:34:34 ] [66.249.75.27] eZImageManager::createImageAlias:
+The reference alias original file var/ezflow_site/storage/images/events/silvia-rinaldi-e-luca-chivinato-perche-in-due-si-sente-piu-individui/7880-1-eng-US/Silvia-Rinaldi-e-Luca-Chivinato-perche-in-due-si-sente-piu-individui.jpg does not exist
+[ Aug 13 2013 10:34:34 ] [66.249.75.27] :
+Original alias does not exist, cannot create other aliases without it
+[ Aug 13 2013 10:34:34 ] [66.249.75.27] eZImageManager::createImageAlias:
+The reference alias original file var/ezflow_site/storage/images/events/u-sophia/shostakovich-s-violin-and-piano-sonata/2625-2-eng-US/Shostakovich-s-Violin-and-Piano-Sonata.jpg does not exist
+[ Aug 13 2013 10:34:34 ] [66.249.75.27] :
+Original alias does not exist, cannot create other aliases without it
+[ Aug 13 2013 10:34:34 ] [66.249.75.27] eZImageManager::createImageAlias:
+The reference alias original file var/ezflow_site/storage/images/events/u-sophia/shostakovich-piano-trio-2-in-e-min-op-67/2583-1-eng-US/Shostakovich-Piano-trio-2-in-E-min-OP-67.jpg does not exist
+[ Aug 13 2013 10:34:34 ] [66.249.75.27] :
+Original alias does not exist, cannot create other aliases without it
+[ Aug 13 2013 11:02:39 ] [66.249.75.69] eZContentObject::fetch():
+Object not found ()
+[ Aug 13 2013 12:26:16 ] [96.254.171.2] index:
+Undefined module: http:
+[ Aug 13 2013 12:26:16 ] [96.254.171.2] error/view.php:
+Error ocurred using URI: http://server7.cyberpods.net/azenv.php
+[ Aug 13 2013 12:26:16 ] [96.254.171.2] eZContentObject::fetch():
+Object not found ()
+[ Aug 13 2013 13:54:42 ] [66.249.75.27] eZImageManager::createImageAlias:
+The reference alias original file var/ezflow_site/storage/images/events/u-sophia/albert-camus-rebel-or-outsider2/2619-1-eng-US/Albert-Camus-rebel-or-outsider.jpg does not exist
+[ Aug 13 2013 13:54:42 ] [66.249.75.27] :
+Original alias does not exist, cannot create other aliases without it
+[ Aug 13 2013 13:54:42 ] [66.249.75.27] eZImageManager::createImageAlias:
+The reference alias original file var/ezflow_site/storage/images/events/a-cherub-flies-over-the-ruins-of-aquila/15424-1-eng-US/A-Cherub-flies-over-the-ruins-of-Aquila.jpg does not exist
+[ Aug 13 2013 13:54:42 ] [66.249.75.27] :
+Original alias does not exist, cannot create other aliases without it
+[ Aug 13 2013 14:50:02 ] [66.249.75.27] eZImageManager::createImageAlias:
+The reference alias original file  does not exist
+[ Aug 13 2013 14:50:02 ] [66.249.75.27] :
+Original alias does not exist, cannot create other aliases without it
+[ Aug 13 2013 15:50:48 ] [79.180.175.33] eZContentObject::fetch():
+Object not found ()
+[ Aug 13 2013 15:51:24 ] [79.180.175.33] eZContentObject::fetch():
+Object not found ()
+[ Aug 13 2013 15:51:48 ] [79.180.175.33] eZContentObject::fetch():
+Object not found (2)
+[ Aug 13 2013 15:51:48 ] [79.180.175.33] eZSolrBase::sendHTTPRequest:
+curl error: 7
+[ Aug 13 2013 15:51:48 ] [79.180.175.33] eZSolrBase::sendHTTPRequest:
+curl error: 7
+[ Aug 13 2013 15:51:48 ] [79.180.175.33] eZSolrBase::sendHTTPRequest:
+curl error: 7
+[ Aug 13 2013 15:52:14 ] [79.180.175.33] eZContentObject::fetch():
+Object not found ()
+[ Aug 13 2013 15:52:24 ] [79.180.175.33] eZContentObject::fetch():
+Object not found ()
+[ Aug 13 2013 15:52:36 ] [79.180.175.33] eZContentObject::fetch():
+Object not found ()
+[ Aug 13 2013 15:52:41 ] [79.180.175.33] eZContentObject::fetch():
+Object not found ()
+[ Aug 13 2013 15:53:36 ] [79.180.175.33] eZContentObject::fetch():
+Object not found ()
+[ Aug 13 2013 15:53:38 ] [173.0.81.1] eZContentObject::fetch():
+Object not found ()
+[ Aug 13 2013 16:11:00 ] [79.180.175.33] index:
+Undefined module: favicon.ico
+[ Aug 13 2013 16:11:00 ] [79.180.175.33] error/view.php:
+Error ocurred using URI: /favicon.ico
+[ Aug 13 2013 16:11:00 ] [79.180.175.33] eZContentObject::fetch():
+Object not found ()
+[ Aug 13 2013 23:27:04 ] [72.161.221.17] eZContentObject::fetch():
+Object not found ()
+[ Aug 13 2013 23:39:42 ] [100.40.20.141] index:
+Undefined module: http:
+[ Aug 13 2013 23:39:42 ] [100.40.20.141] error/view.php:
+Error ocurred using URI: http://laldaeq.110mb.com/exp/judge.php
+[ Aug 13 2013 23:39:42 ] [100.40.20.141] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 00:12:43 ] [66.249.75.27] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:12:43 ] [66.249.75.27] error/view.php:
+Error ocurred using URI: /visual/templateedit/design/standard/templates/content/datatype/view/ezxmltags/strong.tpl/(siteAccess)/eng
+[ Aug 14 2013 00:12:43 ] [66.249.75.27] Timing Point: Module end 'error'
+[ Aug 14 2013 00:12:43 ] [66.249.75.27] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 00:12:44 ] [66.249.75.27] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:12:44 ] [66.249.75.27] error/view.php:
+Error ocurred using URI: /visual/templateview/parts/path.tpl
+[ Aug 14 2013 00:12:44 ] [66.249.75.27] Timing Point: Module end 'error'
+[ Aug 14 2013 00:12:44 ] [66.249.75.27] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 00:12:45 ] [66.249.75.27] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:12:45 ] [66.249.75.27] error/view.php:
+Error ocurred using URI: /visual/templateview/content/datatype/view/ezxmltext.tpl
+[ Aug 14 2013 00:12:45 ] [66.249.75.27] Timing Point: Module end 'error'
+[ Aug 14 2013 00:12:45 ] [66.249.75.27] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 00:12:45 ] [66.249.75.27] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:12:45 ] [66.249.75.27] error/view.php:
+Error ocurred using URI: /visual/templatecreate/setup/debug_toolbar.tpl/(siteAccess)/eng
+[ Aug 14 2013 00:12:45 ] [66.249.75.27] Timing Point: Module end 'error'
+[ Aug 14 2013 00:12:45 ] [66.249.75.27] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 00:12:46 ] [66.249.75.27] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:12:46 ] [66.249.75.27] error/view.php:
+Error ocurred using URI: /visual/templateview/node/view/full.tpl
+[ Aug 14 2013 00:12:46 ] [66.249.75.27] Timing Point: Module end 'error'
+[ Aug 14 2013 00:12:46 ] [66.249.75.27] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 00:12:48 ] [66.249.75.184] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:12:48 ] [66.249.75.184] error/view.php:
+Error ocurred using URI: /visual/templateview/pagelayout.tpl
+[ Aug 14 2013 00:12:48 ] [66.249.75.184] Timing Point: Module end 'error'
+[ Aug 14 2013 00:12:48 ] [66.249.75.184] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 00:12:56 ] [66.249.75.184] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:12:56 ] [66.249.75.184] error/view.php:
+Error ocurred using URI: /visual/templateview/setup/debug_toolbar.tpl
+[ Aug 14 2013 00:12:56 ] [66.249.75.184] Timing Point: Module end 'error'
+[ Aug 14 2013 00:12:56 ] [66.249.75.184] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 00:13:04 ] [66.249.75.27] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:13:04 ] [66.249.75.27] error/view.php:
+Error ocurred using URI: /visual/templateview/content/view/embed.tpl
+[ Aug 14 2013 00:13:04 ] [66.249.75.27] Timing Point: Module end 'error'
+[ Aug 14 2013 00:13:04 ] [66.249.75.27] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 00:13:12 ] [66.249.75.27] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:13:12 ] [66.249.75.27] error/view.php:
+Error ocurred using URI: /visual/templatecreate/pagelayout.tpl/(siteAccess)/eng
+[ Aug 14 2013 00:13:12 ] [66.249.75.27] Timing Point: Module end 'error'
+[ Aug 14 2013 00:13:12 ] [66.249.75.27] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 00:13:20 ] [66.249.75.27] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:13:20 ] [66.249.75.27] error/view.php:
+Error ocurred using URI: /visual/templatecreate/events_page.tpl/(siteAccess)/eng
+[ Aug 14 2013 00:13:20 ] [66.249.75.27] Timing Point: Module end 'error'
+[ Aug 14 2013 00:13:20 ] [66.249.75.27] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 00:13:28 ] [66.249.75.27] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:13:28 ] [66.249.75.27] error/view.php:
+Error ocurred using URI: /visual/templatecreate/parts/path.tpl/(siteAccess)/eng
+[ Aug 14 2013 00:13:28 ] [66.249.75.27] Timing Point: Module end 'error'
+[ Aug 14 2013 00:13:28 ] [66.249.75.27] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 00:13:36 ] [66.249.75.27] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:13:36 ] [66.249.75.27] error/view.php:
+Error ocurred using URI: /visual/templateedit/design/standard/templates/content/datatype/view/ezxmltext.tpl/(siteAccess)/eng
+[ Aug 14 2013 00:13:36 ] [66.249.75.27] Timing Point: Module end 'error'
+[ Aug 14 2013 00:13:36 ] [66.249.75.27] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 00:13:44 ] [66.249.75.27] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:13:44 ] [66.249.75.27] error/view.php:
+Error ocurred using URI: /visual/templateedit/extension/ezwebin/design/ezwebin/override/templates/embed/image.tpl/(siteAccess)/eng
+[ Aug 14 2013 00:13:44 ] [66.249.75.27] Timing Point: Module end 'error'
+[ Aug 14 2013 00:13:44 ] [66.249.75.27] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 00:13:52 ] [66.249.75.27] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:13:52 ] [66.249.75.27] error/view.php:
+Error ocurred using URI: /visual/templatecreate/content/datatype/view/ezxmltags/embed.tpl/(siteAccess)/eng
+[ Aug 14 2013 00:13:52 ] [66.249.75.27] Timing Point: Module end 'error'
+[ Aug 14 2013 00:13:52 ] [66.249.75.27] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 00:13:59 ] [66.249.75.27] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:13:59 ] [66.249.75.27] error/view.php:
+Error ocurred using URI: /visual/templateview/content/datatype/view/ezxmltags/link.tpl
+[ Aug 14 2013 00:14:00 ] [66.249.75.27] Timing Point: Module end 'error'
+[ Aug 14 2013 00:14:00 ] [66.249.75.27] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 00:14:07 ] [66.249.75.184] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:14:07 ] [66.249.75.184] error/view.php:
+Error ocurred using URI: /visual/templatecreate/pagelayout_art_center.tpl/(siteAccess)/eng
+[ Aug 14 2013 00:14:07 ] [66.249.75.184] Timing Point: Module end 'error'
+[ Aug 14 2013 00:14:07 ] [66.249.75.184] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 00:14:15 ] [66.249.75.27] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:14:15 ] [66.249.75.27] error/view.php:
+Error ocurred using URI: /visual/templateedit/extension/usophia/design/usophia/override/templates/events_page.tpl/(siteAccess)/eng
+[ Aug 14 2013 00:14:15 ] [66.249.75.27] Timing Point: Module end 'error'
+[ Aug 14 2013 00:14:15 ] [66.249.75.27] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 00:14:23 ] [66.249.75.27] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:14:23 ] [66.249.75.27] error/view.php:
+Error ocurred using URI: /visual/templateview/content/datatype/view/ezxmltags/strong.tpl
+[ Aug 14 2013 00:14:23 ] [66.249.75.27] Timing Point: Module end 'error'
+[ Aug 14 2013 00:14:23 ] [66.249.75.27] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 00:14:31 ] [66.249.75.27] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:14:31 ] [66.249.75.27] error/view.php:
+Error ocurred using URI: /visual/templateview/content/datatype/view/ezxmltags/paragraph.tpl
+[ Aug 14 2013 00:14:31 ] [66.249.75.27] Timing Point: Module end 'error'
+[ Aug 14 2013 00:14:31 ] [66.249.75.27] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 00:14:39 ] [66.249.75.27] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:14:39 ] [66.249.75.27] error/view.php:
+Error ocurred using URI: /visual/templateedit/design/standard/templates/content/datatype/view/ezxmltags/link.tpl/(siteAccess)/eng
+[ Aug 14 2013 00:14:39 ] [66.249.75.27] Timing Point: Module end 'error'
+[ Aug 14 2013 00:14:39 ] [66.249.75.27] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 00:14:47 ] [66.249.75.27] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:14:47 ] [66.249.75.27] error/view.php:
+Error ocurred using URI: /visual/templatecreate/content/datatype/view/ezxmltags/paragraph.tpl/(siteAccess)/eng
+[ Aug 14 2013 00:14:47 ] [66.249.75.27] Timing Point: Module end 'error'
+[ Aug 14 2013 00:14:47 ] [66.249.75.27] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 00:14:55 ] [66.249.75.184] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:14:55 ] [66.249.75.184] error/view.php:
+Error ocurred using URI: /visual/templateedit/design/standard/templates/content/datatype/view/ezstring.tpl/(siteAccess)/eng
+[ Aug 14 2013 00:14:55 ] [66.249.75.184] Timing Point: Module end 'error'
+[ Aug 14 2013 00:14:55 ] [66.249.75.184] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 00:15:03 ] [66.249.75.27] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:15:03 ] [66.249.75.27] error/view.php:
+Error ocurred using URI: /visual/templateedit/design/standard/templates/content/datatype/view/ezxmltags/line.tpl/(siteAccess)/eng
+[ Aug 14 2013 00:15:03 ] [66.249.75.27] Timing Point: Module end 'error'
+[ Aug 14 2013 00:15:03 ] [66.249.75.27] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 00:15:11 ] [66.249.75.27] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:15:11 ] [66.249.75.27] error/view.php:
+Error ocurred using URI: /visual/templateedit/extension/usophia/design/usophia/templates/pagelayout.tpl/(siteAccess)/eng
+[ Aug 14 2013 00:15:11 ] [66.249.75.27] Timing Point: Module end 'error'
+[ Aug 14 2013 00:15:11 ] [66.249.75.27] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 00:15:19 ] [66.249.75.27] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:15:19 ] [66.249.75.27] error/view.php:
+Error ocurred using URI: /visual/templateview/content/datatype/view/ezimage.tpl
+[ Aug 14 2013 00:15:19 ] [66.249.75.27] Timing Point: Module end 'error'
+[ Aug 14 2013 00:15:19 ] [66.249.75.27] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 00:15:26 ] [66.249.75.27] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:15:26 ] [66.249.75.27] error/view.php:
+Error ocurred using URI: /visual/templatecreate/embed/image.tpl/(siteAccess)/eng
+[ Aug 14 2013 00:15:27 ] [66.249.75.27] Timing Point: Module end 'error'
+[ Aug 14 2013 00:15:27 ] [66.249.75.27] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 00:15:34 ] [66.249.75.27] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:15:34 ] [66.249.75.27] error/view.php:
+Error ocurred using URI: /visual/templatecreate/embed/file.tpl/(siteAccess)/eng
+[ Aug 14 2013 00:15:34 ] [66.249.75.27] Timing Point: Module end 'error'
+[ Aug 14 2013 00:15:34 ] [66.249.75.27] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 00:15:42 ] [66.249.75.184] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:15:42 ] [66.249.75.184] error/view.php:
+Error ocurred using URI: /visual/templatecreate/content/datatype/view/ezstring.tpl/(siteAccess)/eng
+[ Aug 14 2013 00:15:42 ] [66.249.75.184] Timing Point: Module end 'error'
+[ Aug 14 2013 00:15:42 ] [66.249.75.184] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 00:15:50 ] [66.249.75.27] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:15:50 ] [66.249.75.27] error/view.php:
+Error ocurred using URI: /visual/templateedit/extension/ezwebin/design/ezwebin/templates/content/datatype/view/ezxmltags/paragraph.tpl/(siteAccess)/eng
+[ Aug 14 2013 00:15:50 ] [66.249.75.27] Timing Point: Module end 'error'
+[ Aug 14 2013 00:15:50 ] [66.249.75.27] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 00:15:58 ] [66.249.75.27] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:15:58 ] [66.249.75.27] error/view.php:
+Error ocurred using URI: /visual/templateview/content/datatype/view/ezxmltags/line.tpl
+[ Aug 14 2013 00:15:58 ] [66.249.75.27] Timing Point: Module end 'error'
+[ Aug 14 2013 00:15:58 ] [66.249.75.27] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 00:16:06 ] [66.249.75.27] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:16:06 ] [66.249.75.27] error/view.php:
+Error ocurred using URI: /visual/templatecreate/content/datatype/view/ezxmltext.tpl/(siteAccess)/eng
+[ Aug 14 2013 00:16:06 ] [66.249.75.27] Timing Point: Module end 'error'
+[ Aug 14 2013 00:16:06 ] [66.249.75.27] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 00:16:14 ] [66.249.75.27] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:16:14 ] [66.249.75.27] error/view.php:
+Error ocurred using URI: /visual/templateedit/design/standard/templates/content/datatype/view/ezxmltags/embed.tpl/(siteAccess)/eng
+[ Aug 14 2013 00:16:14 ] [66.249.75.27] Timing Point: Module end 'error'
+[ Aug 14 2013 00:16:14 ] [66.249.75.27] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 00:16:22 ] [66.249.75.184] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:16:22 ] [66.249.75.184] error/view.php:
+Error ocurred using URI: /visual/templatecreate/content/datatype/view/ezimage.tpl/(siteAccess)/eng
+[ Aug 14 2013 00:16:22 ] [66.249.75.184] Timing Point: Module end 'error'
+[ Aug 14 2013 00:16:22 ] [66.249.75.184] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 00:16:30 ] [66.249.75.184] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:16:30 ] [66.249.75.184] error/view.php:
+Error ocurred using URI: /visual/templateview/content/datatype/view/ezstring.tpl
+[ Aug 14 2013 00:16:30 ] [66.249.75.184] Timing Point: Module end 'error'
+[ Aug 14 2013 00:16:30 ] [66.249.75.184] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 00:16:38 ] [66.249.75.27] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:16:38 ] [66.249.75.27] error/view.php:
+Error ocurred using URI: /visual/templateview/content/datatype/view/ezxmltags/embed.tpl
+[ Aug 14 2013 00:16:38 ] [66.249.75.27] Timing Point: Module end 'error'
+[ Aug 14 2013 00:16:38 ] [66.249.75.27] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 00:16:46 ] [66.249.75.184] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:16:46 ] [66.249.75.184] error/view.php:
+Error ocurred using URI: /visual/templateedit/extension/usophia/design/usophia/override/templates/pagelayout_art_center.tpl/(siteAccess)/eng
+[ Aug 14 2013 00:16:46 ] [66.249.75.184] Timing Point: Module end 'error'
+[ Aug 14 2013 00:16:46 ] [66.249.75.184] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 00:16:54 ] [66.249.75.27] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:16:54 ] [66.249.75.27] error/view.php:
+Error ocurred using URI: /visual/templateedit/design/standard/templates/setup/debug_toolbar.tpl/(siteAccess)/eng
+[ Aug 14 2013 00:16:54 ] [66.249.75.27] Timing Point: Module end 'error'
+[ Aug 14 2013 00:16:54 ] [66.249.75.27] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 00:17:02 ] [66.249.75.27] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:17:02 ] [66.249.75.27] error/view.php:
+Error ocurred using URI: /visual/templatecreate/content/datatype/view/ezxmltags/line.tpl/(siteAccess)/eng
+[ Aug 14 2013 00:17:02 ] [66.249.75.27] Timing Point: Module end 'error'
+[ Aug 14 2013 00:17:02 ] [66.249.75.27] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 00:17:10 ] [66.249.75.27] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:17:10 ] [66.249.75.27] error/view.php:
+Error ocurred using URI: /visual/templateedit/extension/usophia/design/usophia/templates/parts/path.tpl/(siteAccess)/eng
+[ Aug 14 2013 00:17:10 ] [66.249.75.27] Timing Point: Module end 'error'
+[ Aug 14 2013 00:17:10 ] [66.249.75.27] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 00:19:38 ] [66.249.75.27] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:19:38 ] [66.249.75.27] error/view.php:
+Error ocurred using URI: /visual/templateedit/design/standard/templates/content/datatype/view/ezimage.tpl/(siteAccess)/eng
+[ Aug 14 2013 00:19:38 ] [66.249.75.27] Timing Point: Module end 'error'
+[ Aug 14 2013 00:19:38 ] [66.249.75.27] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 00:21:36 ] [66.249.75.27] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:21:36 ] [66.249.75.27] error/view.php:
+Error ocurred using URI: /visual/templatecreate/content/datatype/view/ezxmltags/link.tpl/(siteAccess)/eng
+[ Aug 14 2013 00:22:42 ] [66.249.75.27] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:22:42 ] [66.249.75.27] error/view.php:
+Error ocurred using URI: /visual/templatecreate/content/datatype/view/ezxmltags/strong.tpl/(siteAccess)/eng
+[ Aug 14 2013 00:22:58 ] [66.249.75.27] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:22:58 ] [66.249.75.27] error/view.php:
+Error ocurred using URI: /visual/templateedit/extension/ezwebin/design/ezwebin/override/templates/embed/file.tpl/(siteAccess)/eng
+[ Aug 14 2013 00:23:29 ] [66.249.75.27] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:23:29 ] [66.249.75.27] error/view.php:
+Error ocurred using URI: /visual/templateview/user/login.tpl
+[ Aug 14 2013 00:23:57 ] [66.249.75.27] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:23:57 ] [66.249.75.27] error/view.php:
+Error ocurred using URI: /visual/templateview/error/kernel/1.tpl
+[ Aug 14 2013 00:24:00 ] [72.161.221.17] Timing Point: Script start
+[ Aug 14 2013 00:24:00 ] [72.161.221.17] index:
+Undefined module: favicon.ico
+[ Aug 14 2013 00:24:00 ] [72.161.221.17] error/view.php:
+Error ocurred using URI: /favicon.ico
+[ Aug 14 2013 00:24:27 ] [66.249.75.184] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:24:27 ] [66.249.75.184] error/view.php:
+Error ocurred using URI: /visual/templatecreate/full/art_center.tpl/(siteAccess)/eng
+[ Aug 14 2013 00:24:56 ] [66.249.75.27] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:24:56 ] [66.249.75.27] error/view.php:
+Error ocurred using URI: /visual/templateedit/design/standard/templates/error/kernel/1.tpl/(siteAccess)/eng
+[ Aug 14 2013 00:25:25 ] [66.249.75.27] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:25:25 ] [66.249.75.27] error/view.php:
+Error ocurred using URI: /visual/templateedit/extension/usophia/design/usophia/templates/user/login.tpl/(siteAccess)/eng
+[ Aug 14 2013 00:25:55 ] [66.249.75.184] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:25:55 ] [66.249.75.184] error/view.php:
+Error ocurred using URI: /visual/templateedit/extension/usophia/design/usophia/override/templates/full/art_center.tpl/(siteAccess)/eng
+[ Aug 14 2013 00:25:55 ] [66.249.75.184] Timing Point: Module end 'error'
+[ Aug 14 2013 00:25:55 ] [66.249.75.184] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 00:26:26 ] [66.249.75.27] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:26:26 ] [66.249.75.27] error/view.php:
+Error ocurred using URI: /visual/templatecreate/user/login.tpl/(siteAccess)/eng
+[ Aug 14 2013 00:26:26 ] [66.249.75.27] Timing Point: Module end 'error'
+[ Aug 14 2013 00:26:26 ] [66.249.75.27] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 00:27:01 ] [66.249.75.27] Timing Point: Module start 'visual'
+[ Aug 14 2013 00:27:01 ] [66.249.75.27] error/view.php:
+Error ocurred using URI: /visual/templatecreate/error/kernel/1.tpl/(siteAccess)/eng
+[ Aug 14 2013 00:27:01 ] [66.249.75.27] Timing Point: Module end 'error'
+[ Aug 14 2013 00:27:01 ] [66.249.75.27] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 01:03:57 ] [72.161.221.17] Timing Point: Module end 'user'
+[ Aug 14 2013 01:03:57 ] [72.161.221.17] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 01:04:20 ] [72.161.221.17] Timing Point: Script start
+[ Aug 14 2013 01:04:20 ] [72.161.221.17] index:
+Undefined module: favicon.ico
+[ Aug 14 2013 01:04:20 ] [72.161.221.17] error/view.php:
+Error ocurred using URI: /favicon.ico
+[ Aug 14 2013 01:04:20 ] [72.161.221.17] Timing Point: Module end 'error'
+[ Aug 14 2013 01:04:20 ] [72.161.221.17] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 01:05:18 ] [72.161.221.17] Timing Point: Module start 'content'
+[ Aug 14 2013 01:05:18 ] [72.161.221.17] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 01:09:39 ] [72.161.221.17] Timing Point: Module start 'content'
+[ Aug 14 2013 01:09:39 ] [72.161.221.17] eZImageManager::createImageAlias:
+The reference alias original file  does not exist
+[ Aug 14 2013 01:09:39 ] [72.161.221.17] :
+Original alias does not exist, cannot create other aliases without it
+[ Aug 14 2013 01:10:27 ] [72.161.221.17] Timing Point: Module start 'content'
+[ Aug 14 2013 01:10:27 ] [72.161.221.17] eZImageManager::createImageAlias:
+The reference alias original file  does not exist
+[ Aug 14 2013 01:10:27 ] [72.161.221.17] :
+Original alias does not exist, cannot create other aliases without it
+[ Aug 14 2013 01:10:57 ] [100.40.20.141] Timing Point: Script start
+[ Aug 14 2013 01:10:57 ] [100.40.20.141] index:
+Undefined module: http:
+[ Aug 14 2013 01:10:57 ] [100.40.20.141] error/view.php:
+Error ocurred using URI: http://laldaeq.110mb.com/exp/judge.php
+[ Aug 14 2013 01:10:57 ] [100.40.20.141] Timing Point: Module end 'error'
+[ Aug 14 2013 01:10:57 ] [100.40.20.141] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 01:11:37 ] [72.161.221.17] Timing Point: Module start 'content'
+[ Aug 14 2013 01:11:37 ] [72.161.221.17] eZSolrBase::sendHTTPRequest:
+curl error: 7
+[ Aug 14 2013 01:11:37 ] [72.161.221.17] Timing Point: Module end 'content'
+[ Aug 14 2013 01:11:37 ] [72.161.221.17] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 01:25:59 ] [72.161.221.17] Timing Point: Module end 'user'
+[ Aug 14 2013 01:25:59 ] [72.161.221.17] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 01:27:47 ] [72.161.221.17] Timing Point: Module end 'user'
+[ Aug 14 2013 01:27:47 ] [72.161.221.17] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 01:28:42 ] [72.161.221.17] Timing Point: Module start 'user'
+[ Aug 14 2013 01:28:42 ] [72.161.221.17] eZSolrBase::sendHTTPRequest:
+curl error: 7
+[ Aug 14 2013 01:28:42 ] [72.161.221.17] eZSolrBase::sendHTTPRequest:
+curl error: 7
+[ Aug 14 2013 01:28:42 ] [72.161.221.17] eZSolrBase::sendHTTPRequest:
+curl error: 7
+[ Aug 14 2013 01:28:52 ] [72.161.221.17] Timing Point: Script start
+[ Aug 14 2013 01:28:52 ] [72.161.221.17] index:
+Undefined module: favicon.ico
+[ Aug 14 2013 01:28:52 ] [72.161.221.17] error/view.php:
+Error ocurred using URI: /favicon.ico
+[ Aug 14 2013 01:28:52 ] [72.161.221.17] Timing Point: Module end 'error'
+[ Aug 14 2013 01:28:52 ] [72.161.221.17] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 01:29:02 ] [72.161.221.17] Timing Point: Module end 'user'
+[ Aug 14 2013 01:29:02 ] [72.161.221.17] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 01:37:24 ] [72.161.221.17] Timing Point: Module end 'user'
+[ Aug 14 2013 01:37:24 ] [72.161.221.17] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 01:37:53 ] [72.161.221.17] Timing Point: Module end 'user'
+[ Aug 14 2013 01:37:53 ] [72.161.221.17] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 01:38:21 ] [72.161.221.17] Timing Point: Module end 'user'
+[ Aug 14 2013 01:38:21 ] [72.161.221.17] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 01:45:11 ] [72.161.221.17] Timing Point: Script start
+[ Aug 14 2013 01:45:11 ] [72.161.221.17] index:
+Undefined module: favicon.ico
+[ Aug 14 2013 01:45:11 ] [72.161.221.17] error/view.php:
+Error ocurred using URI: /favicon.ico
+[ Aug 14 2013 01:45:11 ] [72.161.221.17] Timing Point: Module end 'error'
+[ Aug 14 2013 01:45:11 ] [72.161.221.17] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 01:46:03 ] [72.161.221.17] Timing Point: Module start 'content'
+[ Aug 14 2013 01:46:03 ] [72.161.221.17] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 01:53:17 ] [100.40.20.141] Timing Point: Script start
+[ Aug 14 2013 01:53:17 ] [100.40.20.141] index:
+Undefined module: http:
+[ Aug 14 2013 01:53:17 ] [100.40.20.141] error/view.php:
+Error ocurred using URI: http://laldaeq.110mb.com/exp/judge.php
+[ Aug 14 2013 01:53:17 ] [100.40.20.141] Timing Point: Module end 'error'
+[ Aug 14 2013 01:53:17 ] [100.40.20.141] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 01:56:16 ] [72.161.221.17] Timing Point: Module start 'content'
+[ Aug 14 2013 01:56:16 ] [72.161.221.17] eZImageManager::createImageAlias:
+The reference alias original file  does not exist
+[ Aug 14 2013 01:56:16 ] [72.161.221.17] :
+Original alias does not exist, cannot create other aliases without it
+[ Aug 14 2013 01:59:13 ] [100.40.20.141] Timing Point: Script start
+[ Aug 14 2013 01:59:13 ] [100.40.20.141] index:
+Undefined module: http:
+[ Aug 14 2013 01:59:13 ] [100.40.20.141] error/view.php:
+Error ocurred using URI: http://laldaeq.110mb.com/exp/judge.php
+[ Aug 14 2013 01:59:14 ] [100.40.20.141] Timing Point: Module end 'error'
+[ Aug 14 2013 01:59:14 ] [100.40.20.141] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 02:03:28 ] [72.161.221.17] Timing Point: Module start 'shop'
+[ Aug 14 2013 02:03:28 ] [72.161.221.17] eZContentObject::fetch():
+Object not found (0)
+[ Aug 14 2013 02:03:28 ] [72.161.221.17] eZContentObject::fetch():
+Object not found (0)
+[ Aug 14 2013 02:03:28 ] [72.161.221.17] eZContentObject::fetch():
+Object not found (0)
+[ Aug 14 2013 02:03:28 ] [72.161.221.17] eZContentObject::fetch():
+Object not found (0)
+[ Aug 14 2013 02:03:28 ] [72.161.221.17] eZContentObject::fetch():
+Object not found (0)
+[ Aug 14 2013 02:03:28 ] [72.161.221.17] eZContentObject::fetch():
+Object not found (0)
+[ Aug 14 2013 02:10:17 ] [72.161.221.17] Timing Point: Module start 'content'
+[ Aug 14 2013 02:10:17 ] [72.161.221.17] eZSolrBase::sendHTTPRequest:
+curl error: 7
+[ Aug 14 2013 02:10:17 ] [72.161.221.17] Timing Point: Module end 'content'
+[ Aug 14 2013 02:10:17 ] [72.161.221.17] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 02:12:27 ] [72.161.221.17] Timing Point: Module start 'content'
+[ Aug 14 2013 02:12:27 ] [72.161.221.17] eZSolrBase::sendHTTPRequest:
+curl error: 7
+[ Aug 14 2013 02:12:27 ] [72.161.221.17] Timing Point: Module end 'content'
+[ Aug 14 2013 02:12:27 ] [72.161.221.17] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 02:14:28 ] [72.161.221.17] Timing Point: Module start 'content'
+[ Aug 14 2013 02:14:28 ] [72.161.221.17] eZSolrBase::sendHTTPRequest:
+curl error: 7
+[ Aug 14 2013 02:14:28 ] [72.161.221.17] Timing Point: Module end 'content'
+[ Aug 14 2013 02:14:28 ] [72.161.221.17] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 02:35:27 ] [72.161.221.17] Timing Point: Module end 'shop'
+[ Aug 14 2013 02:35:27 ] [72.161.221.17] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 02:35:57 ] [72.161.221.17] Timing Point: Module end 'shop'
+[ Aug 14 2013 02:35:57 ] [72.161.221.17] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 02:37:02 ] [72.161.221.17] Timing Point: Module end 'shop'
+[ Aug 14 2013 02:37:02 ] [72.161.221.17] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 02:38:17 ] [72.161.221.17] Timing Point: Module end 'shop'
+[ Aug 14 2013 02:38:17 ] [72.161.221.17] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 02:39:05 ] [72.161.221.17] Timing Point: Module end 'shop'
+[ Aug 14 2013 02:39:05 ] [72.161.221.17] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 02:39:10 ] [72.161.221.17] Timing Point: Module end 'shop'
+[ Aug 14 2013 02:39:10 ] [72.161.221.17] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 02:49:22 ] [66.249.72.27] Timing Point: Module start 'content'
+[ Aug 14 2013 02:49:22 ] [66.249.72.27] eZImageManager::createImageAlias:
+The reference alias original file  does not exist
+[ Aug 14 2013 02:49:22 ] [66.249.72.27] :
+Original alias does not exist, cannot create other aliases without it
+[ Aug 14 2013 02:52:12 ] [66.249.72.184] Timing Point: Module end 'content'
+[ Aug 14 2013 02:52:12 ] [66.249.72.184] eZImageManager::createImageAlias:
+The reference alias original file  does not exist
+[ Aug 14 2013 02:52:12 ] [66.249.72.184] :
+Original alias does not exist, cannot create other aliases without it
+[ Aug 14 2013 03:02:38 ] [72.161.221.17] Timing Point: Module start 'shop'
+[ Aug 14 2013 03:02:38 ] [72.161.221.17] PHP: E_RECOVERABLE_ERROR:
+Object of class eZPaymentObject could not be converted to string in /var/www/lib/ezutils/classes/ezdebug.php on line 785
+[ Aug 14 2013 03:02:49 ] [173.0.81.1] Timing Point: Module end 'paypal'
+[ Aug 14 2013 03:02:49 ] [173.0.81.1] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 03:03:40 ] [72.161.221.17] Timing Point: Module end 'shop'
+[ Aug 14 2013 03:03:40 ] [72.161.221.17] eZContentObject::fetch():
+Object not found ()
+[ Aug 14 2013 03:07:01 ] [100.40.20.141] Timing Point: Script start
+[ Aug 14 2013 03:07:01 ] [100.40.20.141] index:
+Undefined module: http:
+[ Aug 14 2013 03:07:01 ] [100.40.20.141] error/view.php:
+Error ocurred using URI: http://laldaeq.110mb.com/exp/judge.php
+[ Aug 14 2013 03:07:01 ] [100.40.20.141] Timing Point: Module end 'error'
+[ Aug 14 2013 03:07:01 ] [100.40.20.141] eZContentObject::fetch():
+Object not found ()

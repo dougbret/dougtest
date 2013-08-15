@@ -1,0 +1,1711 @@
+[ Aug 14 2013 02:23:18 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezflsubitemscontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:23:18 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezfindcontextsubmenu.tpl" with resource "design"
+[ Aug 14 2013 02:23:18 ] [72.161.221.17] :
+eZTemplate: Loading template "node/oocontextsubmenu.tpl" with resource "design"
+[ Aug 14 2013 02:23:18 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezflcontextsubmenu.tpl" with resource "design"
+[ Aug 14 2013 02:23:18 ] [72.161.221.17] Timing Point: End
+[ Aug 14 2013 02:23:18 ] [72.161.221.17] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Aug 14 2013 02:23:24 ] [72.161.221.17] Timing Point: Module end 'content'
+[ Aug 14 2013 02:23:24 ] [72.161.221.17] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Aug 14 2013 02:23:24 ] [72.161.221.17] PHP: E_NOTICE:
+Undefined variable: timezone in /var/www/timezone.php on line 2106
+[ Aug 14 2013 02:23:25 ] [72.161.221.17] PHP: E_NOTICE:
+Undefined variable: timezone in /var/www/timezone.php on line 2106
+[ Aug 14 2013 02:23:25 ] [72.161.221.17] :
+eZTemplate: Loading template "parts/content/menu.tpl" with resource "design"
+[ Aug 14 2013 02:23:25 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezmucontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:23:25 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezfindcontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:23:25 ] [72.161.221.17] :
+eZTemplate: Loading template "node/oocontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:23:25 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezflcontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:23:25 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezmusubitemscontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:23:25 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezfindsubitemscontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:23:25 ] [72.161.221.17] :
+eZTemplate: Loading template "node/oosubitemscontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:23:25 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezflsubitemscontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:23:25 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezfindcontextsubmenu.tpl" with resource "design"
+[ Aug 14 2013 02:23:25 ] [72.161.221.17] :
+eZTemplate: Loading template "node/oocontextsubmenu.tpl" with resource "design"
+[ Aug 14 2013 02:23:25 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezflcontextsubmenu.tpl" with resource "design"
+[ Aug 14 2013 02:23:25 ] [72.161.221.17] Timing Point: End
+[ Aug 14 2013 02:23:25 ] [72.161.221.17] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Aug 14 2013 02:23:34 ] [72.161.221.17] Timing Point: Module start 'content'
+[ Aug 14 2013 02:23:34 ] [72.161.221.17] :
+eZTemplate: Loading template "content/edit.tpl" with resource "design"
+[ Aug 14 2013 02:23:34 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/edit/ezstring.tpl" with resource "design"
+[ Aug 14 2013 02:23:34 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/edit/ezstring.tpl" with resource "design"
+[ Aug 14 2013 02:23:34 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/edit/ezselection.tpl" with resource "design"
+[ Aug 14 2013 02:23:34 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/edit/ezselection.tpl" with resource "design"
+[ Aug 14 2013 02:23:34 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/edit/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:23:34 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:23:34 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/edit/ezboolean.tpl" with resource "design"
+[ Aug 14 2013 02:23:34 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/edit/eztext.tpl" with resource "design"
+[ Aug 14 2013 02:23:34 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/edit/ezxmltext_ezoe.tpl" with resource "design"
+[ Aug 14 2013 02:23:34 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/edit/ezboolean.tpl" with resource "design"
+[ Aug 14 2013 02:23:34 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/edit/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:23:34 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:23:34 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/edit/ezobjectrelationlist.tpl" with resource "design"
+[ Aug 14 2013 02:23:34 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/edit/ezobjectrelationlist.tpl" with resource "design"
+[ Aug 14 2013 02:23:34 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/edit/ezprice.tpl" with resource "design"
+[ Aug 14 2013 02:23:34 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/edit/ezboolean.tpl" with resource "design"
+[ Aug 14 2013 02:23:34 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/edit/ezboolean.tpl" with resource "design"
+[ Aug 14 2013 02:23:34 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/edit/ezboolean.tpl" with resource "design"
+[ Aug 14 2013 02:23:34 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/edit/ezboolean.tpl" with resource "design"
+[ Aug 14 2013 02:23:34 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/edit/ezselection.tpl" with resource "design"
+[ Aug 14 2013 02:23:34 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/edit/ezstring.tpl" with resource "design"
+[ Aug 14 2013 02:23:34 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/edit/ezstring.tpl" with resource "design"
+[ Aug 14 2013 02:23:34 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/edit/ezstring.tpl" with resource "design"
+[ Aug 14 2013 02:23:34 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/edit/ezstring.tpl" with resource "design"
+[ Aug 14 2013 02:23:34 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/edit/ezboolean.tpl" with resource "design"
+[ Aug 14 2013 02:23:34 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/edit/ezboolean.tpl" with resource "design"
+[ Aug 14 2013 02:23:34 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/edit/ezkeyword.tpl" with resource "design"
+[ Aug 14 2013 02:23:34 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/edit/ezstring.tpl" with resource "design"
+[ Aug 14 2013 02:23:34 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/edit/ezstring.tpl" with resource "design"
+[ Aug 14 2013 02:23:34 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/edit/ezstring.tpl" with resource "design"
+[ Aug 14 2013 02:23:34 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/edit/ezboolean.tpl" with resource "design"
+[ Aug 14 2013 02:23:34 ] [72.161.221.17] Timing Point: Module end 'content'
+[ Aug 14 2013 02:23:34 ] [72.161.221.17] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Aug 14 2013 02:23:35 ] [72.161.221.17] PHP: E_NOTICE:
+Undefined variable: timezone in /var/www/timezone.php on line 2106
+[ Aug 14 2013 02:23:35 ] [72.161.221.17] PHP: E_NOTICE:
+Undefined variable: timezone in /var/www/timezone.php on line 2106
+[ Aug 14 2013 02:23:35 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezmucontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:23:35 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezfindcontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:23:35 ] [72.161.221.17] :
+eZTemplate: Loading template "node/oocontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:23:35 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezflcontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:23:35 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezmusubitemscontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:23:35 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezfindsubitemscontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:23:35 ] [72.161.221.17] :
+eZTemplate: Loading template "node/oosubitemscontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:23:35 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezflsubitemscontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:23:35 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezfindcontextsubmenu.tpl" with resource "design"
+[ Aug 14 2013 02:23:35 ] [72.161.221.17] :
+eZTemplate: Loading template "node/oocontextsubmenu.tpl" with resource "design"
+[ Aug 14 2013 02:23:35 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezflcontextsubmenu.tpl" with resource "design"
+[ Aug 14 2013 02:23:35 ] [72.161.221.17] Timing Point: End
+[ Aug 14 2013 02:23:35 ] [72.161.221.17] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Aug 14 2013 02:24:05 ] [72.161.221.17] Timing Point: Module end 'content'
+[ Aug 14 2013 02:24:05 ] [72.161.221.17] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Aug 14 2013 02:24:05 ] [72.161.221.17] PHP: E_NOTICE:
+Undefined variable: timezone in /var/www/timezone.php on line 2106
+[ Aug 14 2013 02:24:05 ] [72.161.221.17] PHP: E_NOTICE:
+Undefined variable: timezone in /var/www/timezone.php on line 2106
+[ Aug 14 2013 02:24:05 ] [72.161.221.17] :
+eZTemplate: Loading template "parts/content/menu.tpl" with resource "design"
+[ Aug 14 2013 02:24:05 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezmucontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:24:05 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezfindcontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:24:05 ] [72.161.221.17] :
+eZTemplate: Loading template "node/oocontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:24:05 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezflcontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:24:05 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezmusubitemscontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:24:05 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezfindsubitemscontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:24:05 ] [72.161.221.17] :
+eZTemplate: Loading template "node/oosubitemscontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:24:05 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezflsubitemscontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:24:05 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezfindcontextsubmenu.tpl" with resource "design"
+[ Aug 14 2013 02:24:05 ] [72.161.221.17] :
+eZTemplate: Loading template "node/oocontextsubmenu.tpl" with resource "design"
+[ Aug 14 2013 02:24:05 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezflcontextsubmenu.tpl" with resource "design"
+[ Aug 14 2013 02:24:05 ] [72.161.221.17] Timing Point: End
+[ Aug 14 2013 02:24:05 ] [72.161.221.17] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Aug 14 2013 02:24:18 ] [72.161.221.17] Timing Point: Module start 'content'
+[ Aug 14 2013 02:24:18 ] [72.161.221.17] :
+eZTemplate: Loading template "node/view/full.tpl" with resource "design"
+[ Aug 14 2013 02:24:19 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/view/ezstring.tpl" with resource "design"
+[ Aug 14 2013 02:24:19 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/view/ezobjectrelationlist.tpl" with resource "design"
+[ Aug 14 2013 02:24:19 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/view/ezselection.tpl" with resource "design"
+[ Aug 14 2013 02:24:19 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/view/ezboolean.tpl" with resource "design"
+[ Aug 14 2013 02:24:19 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/view/ezobjectrelationlist.tpl" with resource "design"
+[ Aug 14 2013 02:24:19 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/view/ezselection.tpl" with resource "design"
+[ Aug 14 2013 02:24:19 ] [72.161.221.17] Timing Point: Module end 'content'
+[ Aug 14 2013 02:24:19 ] [72.161.221.17] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Aug 14 2013 02:24:19 ] [72.161.221.17] PHP: E_NOTICE:
+Undefined variable: timezone in /var/www/timezone.php on line 2106
+[ Aug 14 2013 02:24:19 ] [72.161.221.17] PHP: E_NOTICE:
+Undefined variable: timezone in /var/www/timezone.php on line 2106
+[ Aug 14 2013 02:24:19 ] [72.161.221.17] :
+eZTemplate: Loading template "parts/content/menu.tpl" with resource "design"
+[ Aug 14 2013 02:24:19 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezmucontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:24:19 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezfindcontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:24:19 ] [72.161.221.17] :
+eZTemplate: Loading template "node/oocontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:24:19 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezflcontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:24:19 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezmusubitemscontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:24:19 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezfindsubitemscontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:24:19 ] [72.161.221.17] :
+eZTemplate: Loading template "node/oosubitemscontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:24:19 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezflsubitemscontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:24:19 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezfindcontextsubmenu.tpl" with resource "design"
+[ Aug 14 2013 02:24:19 ] [72.161.221.17] :
+eZTemplate: Loading template "node/oocontextsubmenu.tpl" with resource "design"
+[ Aug 14 2013 02:24:19 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezflcontextsubmenu.tpl" with resource "design"
+[ Aug 14 2013 02:24:19 ] [72.161.221.17] Timing Point: End
+[ Aug 14 2013 02:24:19 ] [72.161.221.17] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Aug 14 2013 02:25:08 ] [72.161.221.17] Timing Point: Module start 'content'
+[ Aug 14 2013 02:25:08 ] [72.161.221.17] :
+eZTemplate: Loading template "node/view/full.tpl" with resource "design"
+[ Aug 14 2013 02:25:09 ] [72.161.221.17] Timing Point: Module end 'content'
+[ Aug 14 2013 02:25:09 ] [72.161.221.17] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Aug 14 2013 02:25:09 ] [72.161.221.17] PHP: E_NOTICE:
+Undefined variable: timezone in /var/www/timezone.php on line 2106
+[ Aug 14 2013 02:25:09 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:25:09 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/view/ezstring.tpl" with resource "design"
+[ Aug 14 2013 02:25:09 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:25:09 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/view/ezstring.tpl" with resource "design"
+[ Aug 14 2013 02:25:09 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:25:09 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/view/ezstring.tpl" with resource "design"
+[ Aug 14 2013 02:25:09 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:25:09 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:25:09 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:25:09 ] [72.161.221.17] :
+eZTemplate: Loading template "parts/path.tpl" with resource "design"
+[ Aug 14 2013 02:25:09 ] [72.161.221.17] Timing Point: End
+[ Aug 14 2013 02:25:09 ] [72.161.221.17] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Aug 14 2013 02:26:37 ] [72.161.221.17] Timing Point: Module start 'content'
+[ Aug 14 2013 02:26:37 ] [72.161.221.17] :
+eZTemplate: Loading template "node/view/full.tpl" with resource "design"
+[ Aug 14 2013 02:26:37 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/view/ezselection.tpl" with resource "design"
+[ Aug 14 2013 02:26:37 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:26:37 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/line.tpl" with resource "design"
+[ Aug 14 2013 02:26:37 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:26:37 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:26:37 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:26:37 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:26:37 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:26:37 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:26:37 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:26:37 ] [72.161.221.17] Timing Point: Module end 'content'
+[ Aug 14 2013 02:26:37 ] [72.161.221.17] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Aug 14 2013 02:26:37 ] [72.161.221.17] PHP: E_NOTICE:
+Undefined variable: timezone in /var/www/timezone.php on line 2106
+[ Aug 14 2013 02:26:38 ] [72.161.221.17] :
+eZTemplate: Loading template "parts/path.tpl" with resource "design"
+[ Aug 14 2013 02:26:38 ] [72.161.221.17] Timing Point: End
+[ Aug 14 2013 02:26:38 ] [72.161.221.17] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Aug 14 2013 02:27:41 ] [72.161.221.17] Timing Point: Module start 'shop'
+[ Aug 14 2013 02:27:41 ] [72.161.221.17] :
+eZTemplate: Loading template "shop/orderlist.tpl" with resource "design"
+[ Aug 14 2013 02:27:41 ] [72.161.221.17] Timing Point: Module end 'shop'
+[ Aug 14 2013 02:27:41 ] [72.161.221.17] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Aug 14 2013 02:27:41 ] [72.161.221.17] PHP: E_NOTICE:
+Undefined variable: timezone in /var/www/timezone.php on line 2106
+[ Aug 14 2013 02:27:41 ] [72.161.221.17] PHP: E_NOTICE:
+Undefined variable: timezone in /var/www/timezone.php on line 2106
+[ Aug 14 2013 02:27:41 ] [72.161.221.17] :
+eZTemplate: Loading template "parts/shop/menu.tpl" with resource "design"
+[ Aug 14 2013 02:27:41 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezmucontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:27:41 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezfindcontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:27:41 ] [72.161.221.17] :
+eZTemplate: Loading template "node/oocontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:27:41 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezflcontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:27:41 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezmusubitemscontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:27:41 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezfindsubitemscontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:27:41 ] [72.161.221.17] :
+eZTemplate: Loading template "node/oosubitemscontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:27:41 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezflsubitemscontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:27:41 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezfindcontextsubmenu.tpl" with resource "design"
+[ Aug 14 2013 02:27:41 ] [72.161.221.17] :
+eZTemplate: Loading template "node/oocontextsubmenu.tpl" with resource "design"
+[ Aug 14 2013 02:27:41 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezflcontextsubmenu.tpl" with resource "design"
+[ Aug 14 2013 02:27:41 ] [72.161.221.17] Timing Point: End
+[ Aug 14 2013 02:27:41 ] [72.161.221.17] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Aug 14 2013 02:27:54 ] [72.161.221.17] Timing Point: Module start 'shop'
+[ Aug 14 2013 02:27:54 ] [72.161.221.17] :
+eZTemplate: Loading template "shop/orderview.tpl" with resource "design"
+[ Aug 14 2013 02:27:54 ] [72.161.221.17] :
+eZTemplate: Loading template "shop/accounthandlers/html/default.tpl" with resource "design"
+[ Aug 14 2013 02:27:54 ] [72.161.221.17] Timing Point: Module end 'shop'
+[ Aug 14 2013 02:27:54 ] [72.161.221.17] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Aug 14 2013 02:27:54 ] [72.161.221.17] PHP: E_NOTICE:
+Undefined variable: timezone in /var/www/timezone.php on line 2106
+[ Aug 14 2013 02:27:54 ] [72.161.221.17] PHP: E_NOTICE:
+Undefined variable: timezone in /var/www/timezone.php on line 2106
+[ Aug 14 2013 02:27:54 ] [72.161.221.17] :
+eZTemplate: Loading template "parts/shop/menu.tpl" with resource "design"
+[ Aug 14 2013 02:27:54 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezmucontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:27:54 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezfindcontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:27:54 ] [72.161.221.17] :
+eZTemplate: Loading template "node/oocontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:27:54 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezflcontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:27:54 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezmusubitemscontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:27:54 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezfindsubitemscontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:27:54 ] [72.161.221.17] :
+eZTemplate: Loading template "node/oosubitemscontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:27:54 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezflsubitemscontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:27:54 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezfindcontextsubmenu.tpl" with resource "design"
+[ Aug 14 2013 02:27:54 ] [72.161.221.17] :
+eZTemplate: Loading template "node/oocontextsubmenu.tpl" with resource "design"
+[ Aug 14 2013 02:27:54 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezflcontextsubmenu.tpl" with resource "design"
+[ Aug 14 2013 02:27:54 ] [72.161.221.17] Timing Point: End
+[ Aug 14 2013 02:27:54 ] [72.161.221.17] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Aug 14 2013 02:27:59 ] [72.161.221.17] Timing Point: Module end 'content'
+[ Aug 14 2013 02:27:59 ] [72.161.221.17] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Aug 14 2013 02:27:59 ] [72.161.221.17] PHP: E_NOTICE:
+Undefined variable: timezone in /var/www/timezone.php on line 2106
+[ Aug 14 2013 02:27:59 ] [72.161.221.17] PHP: E_NOTICE:
+Undefined variable: timezone in /var/www/timezone.php on line 2106
+[ Aug 14 2013 02:27:59 ] [72.161.221.17] :
+eZTemplate: Loading template "parts/content/menu.tpl" with resource "design"
+[ Aug 14 2013 02:27:59 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezmucontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:27:59 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezfindcontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:27:59 ] [72.161.221.17] :
+eZTemplate: Loading template "node/oocontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:27:59 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezflcontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:27:59 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezmusubitemscontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:27:59 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezfindsubitemscontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:27:59 ] [72.161.221.17] :
+eZTemplate: Loading template "node/oosubitemscontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:27:59 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezflsubitemscontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:27:59 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezfindcontextsubmenu.tpl" with resource "design"
+[ Aug 14 2013 02:27:59 ] [72.161.221.17] :
+eZTemplate: Loading template "node/oocontextsubmenu.tpl" with resource "design"
+[ Aug 14 2013 02:27:59 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezflcontextsubmenu.tpl" with resource "design"
+[ Aug 14 2013 02:27:59 ] [72.161.221.17] Timing Point: End
+[ Aug 14 2013 02:27:59 ] [72.161.221.17] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Aug 14 2013 02:28:05 ] [72.161.221.17] Timing Point: Module end 'content'
+[ Aug 14 2013 02:28:05 ] [72.161.221.17] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Aug 14 2013 02:28:05 ] [72.161.221.17] PHP: E_NOTICE:
+Undefined variable: timezone in /var/www/timezone.php on line 2106
+[ Aug 14 2013 02:28:05 ] [72.161.221.17] PHP: E_NOTICE:
+Undefined variable: timezone in /var/www/timezone.php on line 2106
+[ Aug 14 2013 02:28:05 ] [72.161.221.17] :
+eZTemplate: Loading template "parts/content/menu.tpl" with resource "design"
+[ Aug 14 2013 02:28:05 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezmucontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:28:05 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezfindcontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:28:05 ] [72.161.221.17] :
+eZTemplate: Loading template "node/oocontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:28:05 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezflcontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:28:05 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezmusubitemscontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:28:05 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezfindsubitemscontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:28:05 ] [72.161.221.17] :
+eZTemplate: Loading template "node/oosubitemscontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:28:05 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezflsubitemscontextmenu.tpl" with resource "design"
+[ Aug 14 2013 02:28:05 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezfindcontextsubmenu.tpl" with resource "design"
+[ Aug 14 2013 02:28:05 ] [72.161.221.17] :
+eZTemplate: Loading template "node/oocontextsubmenu.tpl" with resource "design"
+[ Aug 14 2013 02:28:05 ] [72.161.221.17] :
+eZTemplate: Loading template "node/ezflcontextsubmenu.tpl" with resource "design"
+[ Aug 14 2013 02:28:05 ] [72.161.221.17] Timing Point: End
+[ Aug 14 2013 02:28:05 ] [72.161.221.17] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Aug 14 2013 02:28:42 ] [72.161.221.17] Timing Point: Module start 'content'
+[ Aug 14 2013 02:28:42 ] [72.161.221.17] :
+eZTemplate: Loading template "node/view/full.tpl" with resource "design"
+[ Aug 14 2013 02:28:42 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:28:42 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/view/ezselection.tpl" with resource "design"
+[ Aug 14 2013 02:28:42 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:28:42 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/view/ezselection.tpl" with resource "design"
+[ Aug 14 2013 02:28:42 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:28:42 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/view/ezselection.tpl" with resource "design"
+[ Aug 14 2013 02:28:42 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:28:42 ] [72.161.221.17] Timing Point: Module end 'content'
+[ Aug 14 2013 02:28:42 ] [72.161.221.17] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Aug 14 2013 02:28:42 ] [72.161.221.17] PHP: E_NOTICE:
+Undefined variable: timezone in /var/www/timezone.php on line 2106
+[ Aug 14 2013 02:28:42 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:28:42 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/view/ezstring.tpl" with resource "design"
+[ Aug 14 2013 02:28:42 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:28:42 ] [72.161.221.17] :
+eZTemplate: Loading template "parts/path.tpl" with resource "design"
+[ Aug 14 2013 02:28:42 ] [72.161.221.17] Timing Point: End
+[ Aug 14 2013 02:28:42 ] [72.161.221.17] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Aug 14 2013 02:28:50 ] [72.161.221.17] Timing Point: Module start 'content'
+[ Aug 14 2013 02:28:50 ] [72.161.221.17] :
+eZTemplate: Loading template "node/view/full.tpl" with resource "design"
+[ Aug 14 2013 02:28:50 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/view/ezprice.tpl" with resource "design"
+[ Aug 14 2013 02:28:50 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:28:50 ] [72.161.221.17] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:28:50 ] [72.161.221.17] Timing Point: Module end 'content'
+[ Aug 14 2013 02:28:50 ] [72.161.221.17] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Aug 14 2013 02:28:50 ] [72.161.221.17] PHP: E_NOTICE:
+Undefined variable: timezone in /var/www/timezone.php on line 2106
+[ Aug 14 2013 02:28:50 ] [72.161.221.17] :
+eZTemplate: Loading template "parts/path.tpl" with resource "design"
+[ Aug 14 2013 02:28:50 ] [72.161.221.17] Timing Point: End
+[ Aug 14 2013 02:28:50 ] [72.161.221.17] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Aug 14 2013 02:32:42 ] [66.249.72.27] Timing Point: Module start 'content'
+[ Aug 14 2013 02:32:42 ] [66.249.72.27] :
+eZTemplate: Loading template "node/view/full.tpl" with resource "design"
+[ Aug 14 2013 02:32:42 ] [66.249.72.27] Timing Point: Module end 'content'
+[ Aug 14 2013 02:32:42 ] [66.249.72.27] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Aug 14 2013 02:32:42 ] [66.249.72.27] PHP: E_NOTICE:
+Undefined variable: timezone in /var/www/timezone.php on line 2106
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "parts/path.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/link.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/strong.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/strong.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/link.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/link.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/link.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/line.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] Timing Point: End
+[ Aug 14 2013 02:32:43 ] [66.249.72.27] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.184] Timing Point: Module start 'content'
+[ Aug 14 2013 02:32:43 ] [66.249.72.184] :
+eZTemplate: Loading template "node/view/full.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.184] Timing Point: Module end 'content'
+[ Aug 14 2013 02:32:43 ] [66.249.72.184] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.184] PHP: E_NOTICE:
+Undefined variable: timezone in /var/www/timezone.php on line 2106
+[ Aug 14 2013 02:32:43 ] [66.249.72.184] :
+eZTemplate: Loading template "parts/path.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.184] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.184] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 02:32:43 ] [66.249.72.184] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 02:32:44 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:32:44 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:44 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:44 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:44 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/link.tpl" with resource "design"
+[ Aug 14 2013 02:32:44 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:44 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/strong.tpl" with resource "design"
+[ Aug 14 2013 02:32:44 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:44 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:44 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/strong.tpl" with resource "design"
+[ Aug 14 2013 02:32:44 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:44 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 02:32:44 ] [66.249.72.184] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 02:32:44 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:32:44 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 02:32:44 ] [66.249.72.184] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 02:32:44 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:32:44 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/link.tpl" with resource "design"
+[ Aug 14 2013 02:32:44 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:44 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:32:44 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:44 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:44 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/link.tpl" with resource "design"
+[ Aug 14 2013 02:32:44 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:44 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:44 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:44 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/link.tpl" with resource "design"
+[ Aug 14 2013 02:32:44 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:44 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:32:44 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 02:32:44 ] [66.249.72.184] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 02:32:44 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:32:44 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/line.tpl" with resource "design"
+[ Aug 14 2013 02:32:44 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:44 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:32:44 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:44 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:44 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:44 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:44 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:32:44 ] [66.249.72.184] Timing Point: End
+[ Aug 14 2013 02:32:44 ] [66.249.72.184] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Aug 14 2013 02:34:37 ] [72.161.221.17] Timing Point: Module start 'content'
+[ Aug 14 2013 02:34:37 ] [72.161.221.17] :
+eZTemplate: Loading template "redirect.tpl" with resource "design"
+[ Aug 14 2013 02:35:12 ] [72.161.221.17] Timing Point: Module start 'shop'
+[ Aug 14 2013 02:35:12 ] [72.161.221.17] :
+eZTemplate: Loading template "redirect.tpl" with resource "design"
+[ Aug 14 2013 02:35:27 ] [72.161.221.17] Timing Point: Module start 'shop'
+[ Aug 14 2013 02:35:27 ] [72.161.221.17] :
+eZTemplate: Loading template "shop/basket.tpl" with resource "design"
+[ Aug 14 2013 02:35:27 ] [72.161.221.17] Timing Point: Module end 'shop'
+[ Aug 14 2013 02:35:27 ] [72.161.221.17] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Aug 14 2013 02:35:27 ] [72.161.221.17] PHP: E_NOTICE:
+Undefined variable: timezone in /var/www/timezone.php on line 2106
+[ Aug 14 2013 02:35:27 ] [72.161.221.17] :
+eZTemplate: Loading template "parts/path.tpl" with resource "design"
+[ Aug 14 2013 02:35:27 ] [72.161.221.17] Timing Point: End
+[ Aug 14 2013 02:35:27 ] [72.161.221.17] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Aug 14 2013 02:35:57 ] [72.161.221.17] Timing Point: Module start 'shop'
+[ Aug 14 2013 02:35:57 ] [72.161.221.17] :
+eZTemplate: Loading template "shop/basket.tpl" with resource "design"
+[ Aug 14 2013 02:35:57 ] [72.161.221.17] Timing Point: Module end 'shop'
+[ Aug 14 2013 02:35:57 ] [72.161.221.17] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Aug 14 2013 02:35:57 ] [72.161.221.17] PHP: E_NOTICE:
+Undefined variable: timezone in /var/www/timezone.php on line 2106
+[ Aug 14 2013 02:35:57 ] [72.161.221.17] :
+eZTemplate: Loading template "parts/path.tpl" with resource "design"
+[ Aug 14 2013 02:35:57 ] [72.161.221.17] Timing Point: End
+[ Aug 14 2013 02:35:57 ] [72.161.221.17] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Aug 14 2013 02:36:41 ] [72.161.221.17] Timing Point: Module start 'shop'
+[ Aug 14 2013 02:36:41 ] [72.161.221.17] :
+eZTemplate: Loading template "redirect.tpl" with resource "design"
+[ Aug 14 2013 02:37:02 ] [72.161.221.17] Timing Point: Module start 'shop'
+[ Aug 14 2013 02:37:02 ] [72.161.221.17] PHP: E_NOTICE:
+Use of undefined constant xml - assumed 'xml' in /var/www/extension/coupon/eventtypes/event/ezcouponworkflow/ezcouponworkflowtype.php on line 133
+[ Aug 14 2013 02:37:02 ] [72.161.221.17] :
+eZTemplate: Loading template "workflow/coupon.tpl" with resource "design"
+[ Aug 14 2013 02:37:02 ] [72.161.221.17] Timing Point: Module end 'shop'
+[ Aug 14 2013 02:37:02 ] [72.161.221.17] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Aug 14 2013 02:37:02 ] [72.161.221.17] PHP: E_NOTICE:
+Undefined variable: timezone in /var/www/timezone.php on line 2106
+[ Aug 14 2013 02:37:02 ] [72.161.221.17] :
+eZTemplate: Loading template "parts/path.tpl" with resource "design"
+[ Aug 14 2013 02:37:03 ] [72.161.221.17] Timing Point: End
+[ Aug 14 2013 02:37:03 ] [72.161.221.17] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Aug 14 2013 02:38:17 ] [72.161.221.17] Timing Point: Module start 'shop'
+[ Aug 14 2013 02:38:17 ] [72.161.221.17] PHP: E_NOTICE:
+Use of undefined constant xml - assumed 'xml' in /var/www/extension/coupon/eventtypes/event/ezcouponworkflow/ezcouponworkflowtype.php on line 133
+[ Aug 14 2013 02:38:17 ] [72.161.221.17] :
+eZTemplate: Loading template "workflow/coupon.tpl" with resource "design"
+[ Aug 14 2013 02:38:17 ] [72.161.221.17] Timing Point: Module end 'shop'
+[ Aug 14 2013 02:38:17 ] [72.161.221.17] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Aug 14 2013 02:38:17 ] [72.161.221.17] PHP: E_NOTICE:
+Undefined variable: timezone in /var/www/timezone.php on line 2106
+[ Aug 14 2013 02:38:17 ] [72.161.221.17] :
+eZTemplate: Loading template "parts/path.tpl" with resource "design"
+[ Aug 14 2013 02:38:17 ] [72.161.221.17] Timing Point: End
+[ Aug 14 2013 02:38:17 ] [72.161.221.17] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Aug 14 2013 02:39:05 ] [72.161.221.17] Timing Point: Module start 'shop'
+[ Aug 14 2013 02:39:05 ] [72.161.221.17] PHP: E_NOTICE:
+Use of undefined constant xml - assumed 'xml' in /var/www/extension/coupon/eventtypes/event/ezcouponworkflow/ezcouponworkflowtype.php on line 133
+[ Aug 14 2013 02:39:05 ] [72.161.221.17] :
+eZTemplate: Loading template "workflow/coupon.tpl" with resource "design"
+[ Aug 14 2013 02:39:05 ] [72.161.221.17] Timing Point: Module end 'shop'
+[ Aug 14 2013 02:39:05 ] [72.161.221.17] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Aug 14 2013 02:39:05 ] [72.161.221.17] PHP: E_NOTICE:
+Undefined variable: timezone in /var/www/timezone.php on line 2106
+[ Aug 14 2013 02:39:05 ] [72.161.221.17] :
+eZTemplate: Loading template "parts/path.tpl" with resource "design"
+[ Aug 14 2013 02:39:05 ] [72.161.221.17] Timing Point: End
+[ Aug 14 2013 02:39:05 ] [72.161.221.17] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Aug 14 2013 02:39:10 ] [72.161.221.17] Timing Point: Module start 'shop'
+[ Aug 14 2013 02:39:10 ] [72.161.221.17] :
+eZTemplate: Loading template "shop/confirmorder.tpl" with resource "design"
+[ Aug 14 2013 02:39:10 ] [72.161.221.17] :
+eZTemplate: Loading template "shop/accounthandlers/html/default.tpl" with resource "design"
+[ Aug 14 2013 02:39:10 ] [72.161.221.17] Timing Point: Module end 'shop'
+[ Aug 14 2013 02:39:10 ] [72.161.221.17] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Aug 14 2013 02:39:10 ] [72.161.221.17] PHP: E_NOTICE:
+Undefined variable: timezone in /var/www/timezone.php on line 2106
+[ Aug 14 2013 02:39:10 ] [72.161.221.17] :
+eZTemplate: Loading template "parts/path.tpl" with resource "design"
+[ Aug 14 2013 02:39:10 ] [72.161.221.17] Timing Point: End
+[ Aug 14 2013 02:39:10 ] [72.161.221.17] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Aug 14 2013 02:42:59 ] [66.249.72.27] Timing Point: Module start 'content'
+[ Aug 14 2013 02:42:59 ] [66.249.72.27] :
+eZTemplate: Loading template "node/view/full.tpl" with resource "design"
+[ Aug 14 2013 02:42:59 ] [66.249.72.27] Timing Point: Module end 'content'
+[ Aug 14 2013 02:42:59 ] [66.249.72.27] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Aug 14 2013 02:42:59 ] [66.249.72.27] PHP: E_NOTICE:
+Undefined variable: timezone in /var/www/timezone.php on line 2106
+[ Aug 14 2013 02:42:59 ] [66.249.72.27] :
+eZTemplate: Loading template "parts/path.tpl" with resource "design"
+[ Aug 14 2013 02:42:59 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:42:59 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 02:42:59 ] [66.249.72.27] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 02:42:59 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:42:59 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:42:59 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:42:59 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:42:59 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:42:59 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:42:59 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:42:59 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:42:59 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 02:42:59 ] [66.249.72.27] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 02:42:59 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:42:59 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:42:59 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:42:59 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 02:42:59 ] [66.249.72.27] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 02:42:59 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:42:59 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:42:59 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:42:59 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:42:59 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/link.tpl" with resource "design"
+[ Aug 14 2013 02:42:59 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:42:59 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/strong.tpl" with resource "design"
+[ Aug 14 2013 02:42:59 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:42:59 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:42:59 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/strong.tpl" with resource "design"
+[ Aug 14 2013 02:42:59 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:43:00 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 02:43:00 ] [66.249.72.27] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 02:43:00 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:43:00 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 02:43:00 ] [66.249.72.27] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 02:43:00 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:43:00 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/link.tpl" with resource "design"
+[ Aug 14 2013 02:43:00 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:43:00 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:43:00 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:43:00 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:43:00 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/link.tpl" with resource "design"
+[ Aug 14 2013 02:43:00 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:43:00 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:43:00 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:43:00 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/link.tpl" with resource "design"
+[ Aug 14 2013 02:43:00 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:43:00 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:43:00 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 02:43:00 ] [66.249.72.27] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 02:43:00 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:43:00 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/line.tpl" with resource "design"
+[ Aug 14 2013 02:43:00 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:43:00 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:43:00 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:43:00 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:43:00 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:43:00 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:43:00 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:43:00 ] [66.249.72.27] Timing Point: End
+[ Aug 14 2013 02:43:00 ] [66.249.72.27] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Aug 14 2013 02:43:00 ] [66.249.72.184] Timing Point: Module start 'content'
+[ Aug 14 2013 02:43:00 ] [66.249.72.184] :
+eZTemplate: Loading template "node/view/full.tpl" with resource "design"
+[ Aug 14 2013 02:43:00 ] [66.249.72.184] Timing Point: Module end 'content'
+[ Aug 14 2013 02:43:00 ] [66.249.72.184] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Aug 14 2013 02:43:00 ] [66.249.72.184] PHP: E_NOTICE:
+Undefined variable: timezone in /var/www/timezone.php on line 2106
+[ Aug 14 2013 02:43:00 ] [66.249.72.184] :
+eZTemplate: Loading template "parts/path.tpl" with resource "design"
+[ Aug 14 2013 02:43:00 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/link.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/strong.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/strong.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/link.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/link.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/link.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/line.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] Timing Point: End
+[ Aug 14 2013 02:43:01 ] [66.249.72.184] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Aug 14 2013 02:49:22 ] [66.249.72.27] Timing Point: Module start 'content'
+[ Aug 14 2013 02:49:22 ] [66.249.72.27] :
+eZTemplate: Loading template "node/view/full.tpl" with resource "design"
+[ Aug 14 2013 02:49:22 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:49:22 ] [66.249.72.27] Timing Point: Module end 'content'
+[ Aug 14 2013 02:49:22 ] [66.249.72.27] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Aug 14 2013 02:49:22 ] [66.249.72.27] PHP: E_NOTICE:
+Undefined variable: timezone in /var/www/timezone.php on line 2106
+[ Aug 14 2013 02:49:22 ] [66.249.72.27] :
+eZTemplate: Loading template "parts/path.tpl" with resource "design"
+[ Aug 14 2013 02:49:22 ] [66.249.72.27] Timing Point: End
+[ Aug 14 2013 02:49:22 ] [66.249.72.27] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Aug 14 2013 02:52:12 ] [66.249.72.184] Timing Point: Module end 'content'
+[ Aug 14 2013 02:52:12 ] [66.249.72.184] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Aug 14 2013 02:52:12 ] [66.249.72.184] PHP: E_NOTICE:
+Undefined variable: timezone in /var/www/timezone.php on line 2106
+[ Aug 14 2013 02:52:12 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:52:12 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezstring.tpl" with resource "design"
+[ Aug 14 2013 02:52:12 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:52:12 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezstring.tpl" with resource "design"
+[ Aug 14 2013 02:52:12 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:52:12 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:52:12 ] [66.249.72.184] :
+eZTemplate: Loading template "parts/path.tpl" with resource "design"
+[ Aug 14 2013 02:52:12 ] [66.249.72.184] Timing Point: End
+[ Aug 14 2013 02:52:12 ] [66.249.72.184] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] Timing Point: Module start 'content'
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "node/view/full.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] Timing Point: Module end 'content'
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] PHP: E_NOTICE:
+Undefined variable: timezone in /var/www/timezone.php on line 2106
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "parts/path.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/link.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/strong.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/strong.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/link.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/link.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/link.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/line.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] Timing Point: End
+[ Aug 14 2013 02:54:04 ] [66.249.72.27] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] Timing Point: Module start 'content'
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "node/view/full.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] Timing Point: Module end 'content'
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] PHP: E_NOTICE:
+Undefined variable: timezone in /var/www/timezone.php on line 2106
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "parts/path.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/link.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/strong.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/strong.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/link.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/link.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/link.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/line.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] Timing Point: End
+[ Aug 14 2013 02:54:05 ] [66.249.72.184] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Aug 14 2013 02:57:04 ] [72.161.221.17] Timing Point: Module start 'shop'
+[ Aug 14 2013 02:57:04 ] [72.161.221.17] :
+eZTemplate: Loading template "redirect.tpl" with resource "design"
+[ Aug 14 2013 02:57:33 ] [72.161.221.17] Timing Point: Module start 'shop'
+[ Aug 14 2013 02:57:33 ] [72.161.221.17] PHP: E_NOTICE:
+Undefined index: street2 in /var/www/extension/ezpaypal/classes/ezpaypalgateway.php on line 112
+[ Aug 14 2013 02:57:33 ] [72.161.221.17] PHP: E_NOTICE:
+Undefined index: zip in /var/www/extension/ezpaypal/classes/ezpaypalgateway.php on line 113
+[ Aug 14 2013 02:57:33 ] [72.161.221.17] PHP: E_NOTICE:
+Undefined index: state in /var/www/extension/ezpaypal/classes/ezpaypalgateway.php on line 114
+[ Aug 14 2013 02:57:33 ] [72.161.221.17] PHP: E_NOTICE:
+Undefined index: place in /var/www/extension/ezpaypal/classes/ezpaypalgateway.php on line 115
+[ Aug 14 2013 02:57:34 ] [72.161.221.17] :
+eZTemplate: Loading template "redirect.tpl" with resource "design"
+[ Aug 14 2013 03:02:41 ] [173.0.81.1] Timing Point: Module start 'paypal'
+[ Aug 14 2013 03:02:41 ] [173.0.81.1] PHP: E_NOTICE:
+Undefined index: _ENV in /var/www/lib/ezutils/classes/ezsys.php on line 125
+[ Aug 14 2013 03:02:42 ] [173.0.81.1] :
+eZTemplate: Loading template "shop/orderemail.tpl" with resource "design"
+[ Aug 14 2013 03:02:42 ] [173.0.81.1] :
+eZTemplate: Loading template "shop/accounthandlers/ascii/default.tpl" with resource "design"
+[ Aug 14 2013 03:02:44 ] [72.161.221.17] Timing Point: Module start 'shop'
+[ Aug 14 2013 03:02:44 ] [72.161.221.17] :
+eZTemplate: Loading template "redirect.tpl" with resource "design"
+[ Aug 14 2013 03:02:49 ] [173.0.81.1] Timing Point: Module end 'paypal'
+[ Aug 14 2013 03:02:49 ] [173.0.81.1] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Aug 14 2013 03:02:49 ] [173.0.81.1] PHP: E_NOTICE:
+Undefined variable: timezone in /var/www/timezone.php on line 2106
+[ Aug 14 2013 03:02:49 ] [173.0.81.1] :
+eZTemplate: Loading template "parts/path.tpl" with resource "design"
+[ Aug 14 2013 03:02:49 ] [173.0.81.1] Timing Point: End
+[ Aug 14 2013 03:02:49 ] [173.0.81.1] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] Timing Point: Module start 'content'
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "node/view/full.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] Timing Point: Module end 'content'
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] PHP: E_NOTICE:
+Undefined variable: timezone in /var/www/timezone.php on line 2106
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "parts/path.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/link.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/strong.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/strong.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/link.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/link.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/link.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/line.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] Timing Point: End
+[ Aug 14 2013 03:03:35 ] [66.249.72.27] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Aug 14 2013 03:03:40 ] [72.161.221.17] Timing Point: Module start 'shop'
+[ Aug 14 2013 03:03:40 ] [72.161.221.17] :
+eZTemplate: Loading template "shop/orderview.tpl" with resource "design"
+[ Aug 14 2013 03:03:40 ] [72.161.221.17] :
+eZTemplate: Loading template "shop/accounthandlers/html/default.tpl" with resource "design"
+[ Aug 14 2013 03:03:40 ] [72.161.221.17] Timing Point: Module end 'shop'
+[ Aug 14 2013 03:03:40 ] [72.161.221.17] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Aug 14 2013 03:03:40 ] [72.161.221.17] PHP: E_NOTICE:
+Undefined variable: timezone in /var/www/timezone.php on line 2106
+[ Aug 14 2013 03:03:40 ] [72.161.221.17] :
+eZTemplate: Loading template "parts/path.tpl" with resource "design"
+[ Aug 14 2013 03:03:41 ] [72.161.221.17] Timing Point: End
+[ Aug 14 2013 03:03:41 ] [72.161.221.17] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Aug 14 2013 03:07:01 ] [100.40.20.141] Timing Point: Script start
+[ Aug 14 2013 03:07:01 ] [100.40.20.141] :
+eZTemplate: Loading template "error/kernel/20.tpl" with resource "design"
+[ Aug 14 2013 03:07:01 ] [100.40.20.141] Timing Point: Module end 'error'
+[ Aug 14 2013 03:07:01 ] [100.40.20.141] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Aug 14 2013 03:07:01 ] [100.40.20.141] PHP: E_NOTICE:
+Undefined variable: timezone in /var/www/timezone.php on line 2106
+[ Aug 14 2013 03:07:01 ] [100.40.20.141] :
+eZTemplate: Loading template "parts/path.tpl" with resource "design"
+[ Aug 14 2013 03:07:01 ] [100.40.20.141] Timing Point: End
+[ Aug 14 2013 03:07:01 ] [100.40.20.141] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] Timing Point: Module start 'content'
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "node/view/full.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] Timing Point: Module end 'content'
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] PHP: E_NOTICE:
+Undefined variable: timezone in /var/www/timezone.php on line 2106
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "parts/path.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/link.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/strong.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/strong.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/link.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/link.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/link.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/line.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] Timing Point: End
+[ Aug 14 2013 03:07:02 ] [66.249.72.184] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"

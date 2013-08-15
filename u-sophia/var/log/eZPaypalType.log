@@ -1,0 +1,72 @@
+31-07-2013 11-20  eZPaypalGateway::eZPaypalGateway()
+31-07-2013 11-20  execute
+31-07-2013 11-20  case eZRedirectGateway::OBJECT_NOT_CREATED
+31-07-2013 11-20  createPaymentObject
+31-07-2013 11-20  createRedirectionUrl
+31-07-2013 11-20  createShortDescription
+31-07-2013 11-20  descText=Ch 2 test
+31-07-2013 11-20  business       = u-sophialtd%40u-sophia.com
+31-07-2013 11-20  item_name      = Ch+2+test
+31-07-2013 11-20  custom         = 46
+31-07-2013 11-20  no_shipping    = 1
+31-07-2013 11-20  localHost      = https://u-sophia.com
+31-07-2013 11-20  amount         = 1
+31-07-2013 11-20  currency_code  = USD
+31-07-2013 11-20  notify_url     = https://u-sophia.com/paypal/notify_url/
+31-07-2013 11-20  return         = https://u-sophia.com/shop/checkout/
+31-07-2013 11-20  cancel_return  = https://u-sophia.com/shop/basket/
+31-07-2013 11-20  return eZWorkflowType::STATUS_REDIRECT_REPEAT
+31-07-2013 11-21  eZPaypalGateway::eZPaypalGateway()
+31-07-2013 11-21  execute
+31-07-2013 11-21  case eZRedirectGateway::OBJECT_CREATED
+31-07-2013 11-21  Payment accepted.
+31-07-2013 11-21  eZPaypalGateway::eZPaypalGateway()
+31-07-2013 11-21  cleanup
+13-08-2013 15-52  eZPaypalGateway::eZPaypalGateway()
+13-08-2013 15-52  execute
+13-08-2013 15-52  case eZRedirectGateway::OBJECT_NOT_CREATED
+13-08-2013 15-52  createPaymentObject
+13-08-2013 15-52  createRedirectionUrl
+13-08-2013 15-52  createShortDescription
+13-08-2013 15-52  descText=Nira test
+13-08-2013 15-52  business       = u-sophialtd%40u-sophia.com
+13-08-2013 15-52  item_name      = Nira+test
+13-08-2013 15-52  custom         = 48
+13-08-2013 15-52  no_shipping    = 
+13-08-2013 15-52  localHost      = https://dev-u-sophia.com
+13-08-2013 15-52  amount         = 1
+13-08-2013 15-52  currency_code  = USD
+13-08-2013 15-52  notify_url     = https://dev-u-sophia.com/paypal/notify_url/
+13-08-2013 15-52  return         = https://dev-u-sophia.com/shop/checkout/
+13-08-2013 15-52  cancel_return  = https://dev-u-sophia.com/shop/basket/
+13-08-2013 15-52  return eZWorkflowType::STATUS_REDIRECT_REPEAT
+13-08-2013 15-53  eZPaypalGateway::eZPaypalGateway()
+13-08-2013 15-53  execute
+13-08-2013 15-53  case eZRedirectGateway::OBJECT_CREATED
+13-08-2013 15-53  Payment accepted.
+13-08-2013 15-53  eZPaypalGateway::eZPaypalGateway()
+13-08-2013 15-53  cleanup
+14-08-2013 02-57  eZPaypalGateway::eZPaypalGateway()
+14-08-2013 02-57  execute
+14-08-2013 02-57  case eZRedirectGateway::OBJECT_NOT_CREATED
+14-08-2013 02-57  createPaymentObject
+14-08-2013 02-57  createRedirectionUrl
+14-08-2013 02-57  createShortDescription
+14-08-2013 02-57  descText=Nira test
+14-08-2013 02-57  business       = u-sophialtd%40u-sophia.com
+14-08-2013 02-57  item_name      = Nira+test
+14-08-2013 02-57  custom         = 49
+14-08-2013 02-57  no_shipping    = 
+14-08-2013 02-57  localHost      = https://dev-u-sophia.com
+14-08-2013 02-57  amount         = 1
+14-08-2013 02-57  currency_code  = USD
+14-08-2013 02-57  notify_url     = https://dev-u-sophia.com/paypal/notify_url/
+14-08-2013 02-57  return         = https://dev-u-sophia.com/shop/checkout/
+14-08-2013 02-57  cancel_return  = https://dev-u-sophia.com/shop/basket/
+14-08-2013 02-57  return eZWorkflowType::STATUS_REDIRECT_REPEAT
+14-08-2013 03-02  eZPaypalGateway::eZPaypalGateway()
+14-08-2013 03-02  execute
+14-08-2013 03-02  case eZRedirectGateway::OBJECT_CREATED
+14-08-2013 03-02  Payment accepted.
+14-08-2013 03-02  eZPaypalGateway::eZPaypalGateway()
+14-08-2013 03-02  cleanup

@@ -1,5 +1,8 @@
 <?php /* #?ini charset="utf-8"?
 
+//test
+
+
 [ExtensionSettings]
 ActiveExtensions[]=metadata
 ActiveExtensions[]=ezvideoflv

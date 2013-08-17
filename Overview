@@ -26,7 +26,32 @@ In the triggers list,
 
 The next step is to get into some coding and write a payperdownload extension.
 Save that for fresh thought processes, Saturday.
-For now get a little more sure with git by committing this overview back to online. 
+For now get a little more sure with git by committing this overview back to online.
 
+**************************************
+**Extension - payperdownload
+**************************************  
+payperdownload
 
+design
+/design/payperdownload/templates/orderhistory/error.tpl
+/design/payperdownload/templates/orderhistory/view.tpl
+/design/payperdownload/templates/shop/orderemail.tpl
+/design/payperdownload/templates/shop/orderview.tpl
 
+doc
+/doc/license.txt
+/doc/readme.txt
+
+eventtypes
+/eventtypes/event/payperdownload/payperdownloadtype.php
+
+modules
+/modules/orderhistory/module.php
+/modules/orderhistory/view.php
+
+settings
+/settings/design.ini.append.php
+/settings/module.ini.append.php
+/settings/payperdownload.ini
+/settings/workflow.ini.append.php

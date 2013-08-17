@@ -3,3 +3,30 @@ Create a "Test User" in members group.
 Pull this branch so can work real time local machine.
 Brett Douglas will be the "member", because members has been changed to "Guest Accounts" in this install and Brett Douglas
 Brett Douglas is known able to navigate the ezpaypal to make a purchase.
+
+A. Change the product class add an "object relation" field.
+B. Create a folder in media section labeled download and put a pdf file in it.
+C. Create a new product object, relate the object to the pdf file in media/downloads
+
+Argghhh, Products folder no longer in content structure
+  -- pkg products from a local ez44 and send it up
+  -- no local ez44 with a webshop set up on it.
+
+Just make a Product folder under Home and hope the templates take it from there. Products.tpl are still in there.  Hope this works.  It should.
+
+D. Create a Pay-per-download Role
+
+E. Create a workflow group and workflow called "Payment and Fulfillment"
+  -- Add the Paypal event to this workflow (Paypal is working)
+
+F. The set the trigger to run BEFORE the checkout function of the shop module.
+***NOTE!!! Change made in GUI***
+In the triggers list, 
+  shop  - checkout  -  before WAS Paypal, changed to "Payment and Fulfillment"
+
+The next step is to get into some coding and write a payperdownload extension.
+Save that for fresh thought processes, Saturday.
+For now get a little more sure with git by committing this overview back to online. 
+
+
+

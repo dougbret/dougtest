@@ -55,3 +55,6 @@ settings
 /settings/module.ini.append.php
 /settings/payperdownload.ini
 /settings/workflow.ini.append.php
+
+--After code review, question for Nira?
+Where do existing products come from, and how are they presented in the gui?  Must they be manually inserted into the gui?

@@ -41,6 +41,7 @@ AdditionalSiteDesignList[]
 AdditionalSiteDesignList[]=ezwebin
 AdditionalSiteDesignList[]=base
 AdditionalSiteDesignList[]=standard
+AdditionalSiteDesignList[]=payperdownload
 
 [RegionalSettings]
 Locale=eng-US

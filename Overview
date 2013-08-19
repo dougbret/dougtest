@@ -56,5 +56,12 @@ settings
 /settings/payperdownload.ini
 /settings/workflow.ini.append.php
 
---After code review, question for Nira?
-Where do existing products come from, and how are they presented in the gui?  Must they be manually inserted into the gui?
+Only code change was to set roleID to 19 to match dev-usophia system.
+
+Next get currently proven to work paypal, into a workflow for use by payperdownload extension
+
+Running the first test, on return from paypal, I did not get a link to download the item I just purchased.  Either change the existing template to give me a link, or make sure the template is loading from payperdownload extension.
+
+Checking email to see if I got an email link to the download.  I may be getting overridden by something in the original paypal extension.
+
+

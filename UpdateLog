@@ -64,4 +64,17 @@ Running the first test, on return from paypal, I did not get a link to download 
 
 Checking email to see if I got an email link to the download.  I may be getting overridden by something in the original paypal extension.
 
+8/19/13 AM
+Working to get nira repo ready to use, and dougtest repo ready to push.
+
+8/19/13 10:39 AM
+payperdownload extension installed
+
+Templates in the extension are not loading.
+
+Believe it is necessary to add the extension in /eng siteaccess.
+Top listed extension in eng is usophia.
+Changed site.ini.append in /eng to add payperdownload in the list of design extensions.
+
+
 
